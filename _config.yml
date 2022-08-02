@@ -83,11 +83,11 @@ author:
   name             : "Violeta Haas"
   avatar           : "Dynamics_Haas_Violeta.jpg"
   bio              : "PhD Candidate in Political Science at DYNAMICS, Humboldt-Universität zu Berlin."
-  location         : "Location"
+  location         : "Berlin, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "violeta.haas@hu-berlin.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
