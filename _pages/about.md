@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This side is currently under construction :construction:
+This site is currently under construction :construction:
