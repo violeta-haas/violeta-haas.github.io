@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can take a look at my CV <a href="violeta-haas.github.io/files/CV_Haas_Violeta.pdf" target="_blank">here</a>
+You can take a look at my CV [here]("violeta-haas.github.io/files/CV_Haas_Violeta.pdf")
+
+
