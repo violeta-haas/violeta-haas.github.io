@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-You can take a look at my CV [here]("violeta-haas.github.io/files/CV_Haas_Violeta.pdf")
+You can take a look at my CV [here]("https://github.com/violeta-haas/violeta-haas.github.io/tree/master/files/CV_Haas_Violeta.pdf")
 
 
