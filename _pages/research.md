@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-**Working Papers**
+## **Working Papers**
 
 **1. Panic at the Courtroom: how banning the LGBTQ+ "panic" defense shapes the prevalence of hate crimes**  
 *Draft available upon request*  
