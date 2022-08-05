@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Violeta Haas"
+title                    : "Violeta I. Haas"
 title_separator          : "-"
-name                     : &name "Violeta Haas"
+name                     : &name "Violeta I. Haas"
 description              : &description "PhD Candidate in Political Science at DYNAMICS, Humboldt-Universität zu Berlin."
 url                      : https://violeta-haas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
