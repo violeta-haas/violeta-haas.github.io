@@ -7,10 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-/* Remove underline from links */
-a {
- border: none !important;
-}
 
 This site is currently under construction :construction:
 
