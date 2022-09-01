@@ -13,4 +13,6 @@ I am a PhD candidate in political science at the [DYNAMICS Research Training Gro
 
 My research interests lie at the intersection of political behavior, far-right parties, public policy, hate crimes and social norms. In my dissertation project, I focus on legislative changes in minority rights and how these, depending on the social construction of target groups, affect prejudiced attitudes and behavior toward minority groups. Methodologically, I specialize in strategies for causal identification, quantitative approaches to the analysis of text corpora, and survey experiments.
 
-On this website you can find further information about my [research](https://violeta-haas.github.io/research/) and [teaching profile](https://violeta-haas.github.io/teaching/). 
+On this website you can download my [CV](https://violeta-haas.github.io/cv/) and find further information about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile. 
+
+Feel free to [reach out](mailto:violeta.haas@hu-berlin.de) if you are interested in my research or would like to have a chat :coffee:
