@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+/* Remove underline from links */
+a {
+ border: none !important;
+}
+
 This site is currently under construction :construction:
 
 I am a PhD candidate in political science at the [DYNAMICS Research Training Group](https://www.sowi.hu-berlin.de/en/dynamics), jointly organised by the [Hertie School of Governance](https://www.hertie-school.org/de/) and the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/violeta-haas). 
