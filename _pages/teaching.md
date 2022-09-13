@@ -7,11 +7,11 @@ author_profile: true
 ## Comparative Politics and International Relations [(Syllabus)]() 
 * *Semester:*  Winter 2022/23  
 * *Institution:* Humboldt-Universität zu Berlin, Department of Social Sciences   
-* *Position:* Lecturer for [Anselm Hager](https://anselmhager.com/) and [Eva Krick](https://evakrick.wordpress.com/)   
+* *Position:* Lecturer    
 
 
 
 ## Statistics I & II [(Syllabus)]()  
 * *Semester:*  Winter 2015/16 - Winter 2018/19  
 * *Institution:* Humboldt-Universität zu Berlin, Department of Social Sciences   
-* *Position:* Teaching Assistant for [Johannes Giesecke](https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/giesecke)
+* *Position:* Teaching Assistant 
