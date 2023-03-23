@@ -36,8 +36,9 @@ author_profile: true
 > **Abstract:** Does elite-led anti-LGBTQ+ mobilization bolster the political fortunes of the radical-right? While a growing body of literature documents the increasing politicization of LGBTQ+ and gender related issues by conservative elites, few studies have analyzed the electoral effects of these strategies. In particular, whether legal acts of social exclusion activate and mobilize supporters of radical-right parties, remains largely unknown. To answer this question, we study the introduction of anti-LGBTQ+ resolutions in many Polish municipalities prior to the 2020 Polish presidential election. Our empirical strategy relies on a series of difference-in-differences and synthetic control models, and finds no clear evidence that anti-LGBTQ+ resolutions increased the support for the radical-right Law and Justice party. To the contrary, the evidence suggest that anti-LGBTQ+ resolutions mobilized support for the opposed Civic platform. Overall, this study's findings are relevant for understanding the electoral consequences of elite-led mobilization against stigmatized or discriminated groups, as well as the politics of social exclusion more broadly.  
 <p>&nbsp;</p>  
 
-**When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests**
--- with [Jóhanna Bjarndóttir](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comppol-en/team-comparative-politics/johanna-yr-bjarnadottir), and [António Valentim](https://antoniovalentim.github.io)
+**When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests**  
+-- with [Jóhanna Bjarndóttir](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comppol-en/team-comparative-politics/johanna-yr-bjarnadottir), and [António Valentim](https://antoniovalentim.github.io) --   
+
 
 
 
