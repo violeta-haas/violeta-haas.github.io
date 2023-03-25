@@ -39,7 +39,8 @@ author_profile: true
 **When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests**  
 -- with [Jóhanna Bjarndóttir](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comppol-en/team-comparative-politics/johanna-yr-bjarnadottir), and [António Valentim](https://antoniovalentim.github.io) --   
 
-
+> **Abstract:** When do parties respond to protests? A growing body of literature studies the extent to which elites respond to protests, finding mixed results. This paper explores the conditions under which political parties are more likely to respond to protests. We do so by exploring three key expectations in the literature: i. the role of being in power or opposition, ii. that of party ideology and alignment with the protest and iii. that of electoral threat. We test for these using difference-in-differences and regression-discontinuity in time designs on geocoded data on environmental protests, which we combine with party press from 2018-2021. We explore variation in state-level cabinet status in Germany to explore the role of parties’ cabinet status and use state-of-the-art quantitative text analysis to explore the mechanisms of when and how parties respond to protests. Overall, this study’s findings contribute to our understanding of not just whether but when and how parties respond to protests.  
+<p>&nbsp;</p>  
 
 
 <!--- **Same in all but name? The effects of same-sex partnership recognition rights on public attitudes: Experimental Evidence**    
