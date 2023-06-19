@@ -41,7 +41,6 @@ While a growing body of literature documents the increasing politicization of LG
 
 **Does protest affect bystanders? experimental evidence**   
 -- with [Daniel Bischof](https://www.danbischof.com), [Ferdinand Geissler](https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/geisslerferdinand), [Johannes Giesecke](https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/giesecke), [Felix Hartmann](http://hartmannfelix.github.io), [Macartan Humphreys](https://macartan.github.io), [Heike Klüver](http://www.heike-kluever.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Tim Wappenhans](https://www.timwappenhans.com) --  
-<p>&nbsp;</p>  
 
 **Coalition governments and party competition: The electoral implications of ministerial portfolios**  
 -- with [Heike Klüver](http://www.heike-kluever.com/), and [Jae-Jae Spoon](https://www.jaejaespoon.com) --  
