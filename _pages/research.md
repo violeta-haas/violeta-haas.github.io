@@ -30,7 +30,8 @@ Can legislative actions against discrimination in the criminal justice system re
 <p>&nbsp;</p>  
 
 <details open>
- <summary><b>The German Hate Crime Dictionary (GHCD): Measuring Spatial and Temporal Trends in Hate Crimes using Quantitative Text Analysis</b>
+ <summary><b>The German Hate Crime Dictionary (GHCD): Measuring Spatial and Temporal Trends in Hate Crimes using Quantitative Text Analysis</b>  
+  
 *Draft available upon request*  
 
    </summary>  
@@ -42,6 +43,7 @@ Can legislative actions against discrimination in the criminal justice system re
 
 <details open>
  <summary><b>The electoral effects of elite-led anti-LGBTQ+ mobilization</b>  
+  
 -- with [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), [Tarik Abou-Chadi](https://www.tarikabouchadi.net/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Heike Klüver](http://www.heike-kluever.com/) -- 
 
    </summary>  
@@ -53,6 +55,7 @@ While a growing body of literature documents the increasing politicization of LG
 
 <details open>
  <summary><b>When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests</b>   
+  
 -- with [Jóhanna Bjarndóttir](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comppol-en/team-comparative-politics/johanna-yr-bjarnadottir), and [António Valentim](https://antoniovalentim.github.io) --   
 
    </summary>  
@@ -61,9 +64,15 @@ While a growing body of literature documents the increasing politicization of LG
 </details>  
 <p>&nbsp;</p>  
 
-**Changing the Rules of the Game: Populists in power and constitutional retrogression**  
+<details open>
+ <summary><b>Changing the Rules of the Game: Populists in power and constitutional retrogression</b>  
+  
 *Draft available upon request*  
-> **Abstract:** As populists rise from periphery to power, the question of whether and how these actors threaten democratic institutions becomes ever more pressing. While previous research has focused primarily on the determinants of populist electoral success and its consequences for voters, established parties, and overall democratic quality, this article examines the impact of populist parties' government participation on the most fundamental of democratic institutions, the constitution. Drawing on a comprehensive dataset, covering information on constitutional changes and populist parties across 30 European democracies (1989-2019), I investigate how the entrance of these actors into power impacts the content of constitutional redrafting. Using a series of matching and difference-in-differences models, I find no support for the notion that populists in power are going after constitutionally enshrined horizontal accountability. Neither de jure executive power nor de jure judicial independence significantly shift after populists enter the government. The same results hold when accounting for the level of constitutional rigidity. The findings make an important contribution to the literature on populist parties, constitutional change and democratic backsliding.   
+
+   </summary>  
+
+> **Abstract:** As populists rise from periphery to power, the question of whether and how these actors threaten democratic institutions becomes ever more pressing. While previous research has focused primarily on the determinants of populist electoral success and its consequences for voters, established parties, and overall democratic quality, this article examines the impact of populist parties' government participation on the most fundamental of democratic institutions, the constitution. Drawing on a comprehensive dataset, covering information on constitutional changes and populist parties across 30 European democracies (1989-2019), I investigate how the entrance of these actors into power impacts the content of constitutional redrafting. Using a series of matching and difference-in-differences models, I find no support for the notion that populists in power are going after constitutionally enshrined horizontal accountability. Neither de jure executive power nor de jure judicial independence significantly shift after populists enter the government. The same results hold when accounting for the level of constitutional rigidity. The findings make an important contribution to the literature on populist parties, constitutional change and democratic backsliding.
+</details>   
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
 
