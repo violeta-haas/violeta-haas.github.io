@@ -7,7 +7,6 @@ author_profile: true
 ## **Working Papers**
 <details open>
  <summary>
-
 **Panic at the Courtroom: how banning the LGBTQ+ "panic" defense shapes the prevalence of hate crimes**  
 *Draft available upon request*  
 
