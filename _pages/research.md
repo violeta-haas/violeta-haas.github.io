@@ -40,10 +40,15 @@ Can legislative actions against discrimination in the criminal justice system re
 <p>&nbsp;</p>  
 
 
-**The electoral effects of elite-led anti-LGBTQ+ mobilization**  
+<details open>
+ <summary><b>The electoral effects of elite-led anti-LGBTQ+ mobilization</b>  
 -- with [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), [Tarik Abou-Chadi](https://www.tarikabouchadi.net/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Heike Klüver](http://www.heike-kluever.com/) -- 
+
+   </summary>  
+  
 > **Abstract:** Does elite-led anti-LGBTQ mobilization bolster the electoral fortunes of the radical-right? 
-While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by conservative elites, few studies have analyzed the electoral effects of these strategies. In particular, whether legal acts of social exclusion activate and mobilize supporters of radical-right parties, remains largely unknown. To answer this question, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary and 2020 presidential elections. Our empirical strategy relies on a synthetic difference-in-differences estimator, and finds no clear evidence that anti-LGBTQ resolutions increased the support for the radical-right Law and Justice party in the parliamentary elections. To the contrary, at the subsequent presidential elections, the evidence suggest that anti-LGBTQ resolutions mobilized support for the opposed Civic platform. Overall, this study's findings are relevant for understanding the electoral consequences of elite-led mobilization against stigmatized or discriminated groups, as well as the politics of social exclusion more broadly.   
+While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by conservative elites, few studies have analyzed the electoral effects of these strategies. In particular, whether legal acts of social exclusion activate and mobilize supporters of radical-right parties, remains largely unknown. To answer this question, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary and 2020 presidential elections. Our empirical strategy relies on a synthetic difference-in-differences estimator, and finds no clear evidence that anti-LGBTQ resolutions increased the support for the radical-right Law and Justice party in the parliamentary elections. To the contrary, at the subsequent presidential elections, the evidence suggest that anti-LGBTQ resolutions mobilized support for the opposed Civic platform. Overall, this study's findings are relevant for understanding the electoral consequences of elite-led mobilization against stigmatized or discriminated groups, as well as the politics of social exclusion more broadly.
+</details>  
 <p>&nbsp;</p>  
 
 **When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests**  
