@@ -26,11 +26,17 @@ Can legislative actions against discrimination in the criminal justice system re
  </summary>  
 
 > **Abstract:** Anti-immigration campaigns have helped far right parties to establish themselves in party systems around the world. We examine whether mainstream parties can employ wedge issue campaigns that divide the far right anti-immigration vote to win back electoral support. Wedge issues that cross-cut the anti-immigration vote may enhance the electoral support of mainstream parties, as long as they do not simultaneously alienate pro-immigration voters. We evaluate this expectation using a panel survey experiment conducted during the 2021 German federal election. The first wave allows us to identify wedge issues that the mainstream CDU/CSU can stress to cross-cut the anti-immigration vote. The second wave raises the salience of these issues by manipulating the perceived issue agenda of the CDU/CSU using hypothetical campaign posters. We find that this wedge strategy is effective for subgroups of voters, although it does not increase vote intentions for the CDU/CSU overall.
+</details>
 <p>&nbsp;</p>  
 
-**The German Hate Crime Dictionary (GHCD): Measuring Spatial and Temporal Trends in Hate Crimes using Quantitative Text Analysis**  
+<details open>
+ <summary><b>The German Hate Crime Dictionary (GHCD): Measuring Spatial and Temporal Trends in Hate Crimes using Quantitative Text Analysis</b>
 *Draft available upon request*  
-> **Abstract:** This paper proposes a new technique for measuring spatial and temporal trends in hate crime incidents based on quantitative text analysis. Applied to a novel and unique data set of over 11,000 police breaking news published between 2015 and 2019, the GHCD proves to be a fast, reliable and valid instrument for detecting descriptions of hate crimes in textual data. The GHCD thus provides policy makers and researchers with an effective tool to assist in the development and evaluation of geographically targeted interventions and the investigation of causes and effects of prejudice motivated crimes.     
+
+   </summary>  
+
+> **Abstract:** This paper proposes a new technique for measuring spatial and temporal trends in hate crime incidents based on quantitative text analysis. Applied to a novel and unique data set of over 11,000 police breaking news published between 2015 and 2019, the GHCD proves to be a fast, reliable and valid instrument for detecting descriptions of hate crimes in textual data. The GHCD thus provides policy makers and researchers with an effective tool to assist in the development and evaluation of geographically targeted interventions and the investigation of causes and effects of prejudice motivated crimes.  
+</details> 
 <p>&nbsp;</p>  
 
 
