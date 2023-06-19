@@ -13,6 +13,7 @@ I am a PhD candidate in political science at the [DYNAMICS Research Training Gro
 My research interests lie at the intersection of comparative political behavior, policy feedback, LGBTQ+ rights, hate crimes and social norms. Methodologically, I specialize on strategies for causal identification, quantitative approaches to the analysis of text corpora, and survey experiments. In my dissertation project, I delve into the multifaceted impact of changes in LGBTQ+ rights on various facets of society, including voting patterns, prejudiced attitudes, and discriminatory behaviors towards these communities. 
 
 On this website you can download my [CV](https://violeta-haas.github.io/cv/) and find further information about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile. Feel free to [reach out](mailto:violeta.haas@hu-berlin.de) if you are interested in my research or would like to have a chat :coffee:  
+<p>&nbsp;</p>   
 
 ### Recent Publications:  
 
