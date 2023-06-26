@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Comparative Politics and International Relations
--- Nominated for the good teaching award 2023 at Humboldt-Universität zu Berlin --  
+-- 2nd place: Good teaching award 2023 at Humboldt-Universität zu Berlin --  
 * *Semester:*  Winter 2022/23  
 * *Institution:* Humboldt-Universität zu Berlin, Department of Social Sciences   
 * *Position:* Lecturer    
