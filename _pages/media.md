@@ -1,9 +1,8 @@
 ---  
 layout: archive  
-title: "Media"  
+title: "Media Outreach"  
 permalink: /media/  
 author_profile: true  
 ---  
 
-### **Media Outreach**  
 
