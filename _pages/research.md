@@ -39,10 +39,11 @@ While a growing body of literature documents the increasing politicization of LG
 > **Abstract:** Do parallel institutions promote backlash against marginalized groups? While observational studies regularly find marriage equality to increase support for gays and lesbians, same-sex registered partnership tends to either be unrelated or even promote prejudiced attitudes and behavior. In this preregistered survey experiment, I study the individual level mechanism underlying this phenomenon. I argue that integrating minorities into existing benefits will positively affect attitudes toward these groups and increase support for the proposed policy by decreasing perceptions of (a) inter-group differences, (b) realistic, but not symbolic, threat, and (c) a minority-oriented policy motivation. Yet, I predict this effect to be weaker for the introduction of exclusive new benefits. To test my expectations, I run an experimental vignette study in Turkey (N=1500) and randomly assign respondents to one of two hypothetical scenarios (i.e., extension to marriage equality versus introduction of same-sex registered partnership rights) or a control condition. The results have important implications for the broader literature on minority rights and policy feedback, as well as for policy makers that seek ways to prevent backlash.
 <p>&nbsp;</p>)
 -->
-**Full Disclosure? The impact of reporting suspects' nationality in crime news on xenophobic attitudes and behavior**    
-
 **Does protest affect bystanders? experimental evidence**   
 -- with [Daniel Bischof](https://www.danbischof.com), [Ferdinand Geissler](https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/geisslerferdinand), [Johannes Giesecke](https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/giesecke), [Felix Hartmann](http://hartmannfelix.github.io), [Macartan Humphreys](https://macartan.github.io), [Heike Klüver](http://www.heike-kluever.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Tim Wappenhans](https://www.timwappenhans.com) --  
+
+**Full Disclosure? the dynamics of police reporting on suspects’ nationality**    
+-- with [Ashrakat Elshehawy](https://www.ashrakatelshehawy.com), [Arun Frey](https://arunfrey.github.io), [Tobias Roemer](https://www.nuffield.ox.ac.uk/people/profiles/tobias-roemer/), [Sascha Riaz](https://saschariaz.com) --  
 
 **Coalition governments and party competition: The electoral implications of ministerial portfolios**  
 -- with [Heike Klüver](http://www.heike-kluever.com/), and [Jae-Jae Spoon](https://www.jaejaespoon.com) --  
