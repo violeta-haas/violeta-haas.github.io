@@ -23,8 +23,7 @@ Anti-immigration campaigns have helped far right parties to establish themselves
 </p>
 
 
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
   <div style="width: 49%;">
     <img src="/images/argument.jpg" alt="Theoretical Argument" title="Theoretical Argument" width="100%">
     <p>Title for Image 1</p>
