@@ -11,6 +11,17 @@ Haas, V. I., Stoetzer, L. F., Schleiter, P., & Klüver, H. (2023). [**Can wedge 
 
 Anti-immigration campaigns have helped far right parties to establish themselves in party systems around the world. We examine whether mainstream parties can employ wedge issue campaigns that divide the far right anti-immigration vote to win back electoral support. Wedge issues that cross-cut the anti-immigration vote may enhance the electoral support of mainstream parties, as long as they do not simultaneously alienate pro-immigration voters. We evaluate this expectation using a panel survey experiment conducted during the 2021 German federal election. The first wave allows us to identify wedge issues that the mainstream CDU/CSU can stress to cross-cut the anti-immigration vote. The second wave raises the salience of these issues by manipulating the perceived issue agenda of the CDU/CSU using hypothetical campaign posters. While our results show that wedge issue strategies are not effective on average, exploratory analyses reveal the potential of strategically targeted messaging in winning back support of some anti-immigration voters.  
 
+.image-container {
+  display: flex;
+  justify-content: center; /* Zentriert horizontal */
+  align-items: center; /* Zentriert vertikal */
+  max-width: 100%; /* Um die Bilder innerhalb der Containerbreite zu halten */
+}
+
+.image-container img {
+  max-width: 100%; /* Damit die Bilder sich nicht ausdehnen und innerhalb des Containers bleiben */
+}
+
 <div class="image-container">
 <img src="/images/argument.jpg" alt="Theoretical Argument" width="400">
 <img src="/images/selection.jpg" alt="Wedge Issue Selection" width="400">
