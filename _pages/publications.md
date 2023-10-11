@@ -4,18 +4,25 @@ title: "Publications"
 permalink: /publications/  
 author_profile: true  
 ---  
-.image-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 90%; /* Set a maximum width to ensure they stay on one line */
-}
+
 ### **Peer-Reviewed Journal Articles**  
 
 Haas, V. I., Stoetzer, L. F., Schleiter, P., & Klüver, H. (2023). [**Can wedge strategies by mainstream parties cross-cut the anti-immigration far right vote?**](https://www.sciencedirect.com/science/article/pii/S0261379423000392?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=274833384&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM374553&utm_source=AC_#fig4) *Electoral Studies*, 83, 102617.  
 
 Anti-immigration campaigns have helped far right parties to establish themselves in party systems around the world. We examine whether mainstream parties can employ wedge issue campaigns that divide the far right anti-immigration vote to win back electoral support. Wedge issues that cross-cut the anti-immigration vote may enhance the electoral support of mainstream parties, as long as they do not simultaneously alienate pro-immigration voters. We evaluate this expectation using a panel survey experiment conducted during the 2021 German federal election. The first wave allows us to identify wedge issues that the mainstream CDU/CSU can stress to cross-cut the anti-immigration vote. The second wave raises the salience of these issues by manipulating the perceived issue agenda of the CDU/CSU using hypothetical campaign posters. While our results show that wedge issue strategies are not effective on average, exploratory analyses reveal the potential of strategically targeted messaging in winning back support of some anti-immigration voters.  
 
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Set different widths for each image */
+.image-container img {
+  width: 25%; /* Adjust the width for each image (total should not exceed 100%) */
+  height: auto; /* Maintain aspect ratio */
+}
 <div class="image-container">
   <img src="/images/argument.jpg" alt="Theoretical Argument">
   <img src="/images/selection.jpg" alt="Wedge Issue Selection">
