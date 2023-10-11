@@ -13,13 +13,13 @@ Anti-immigration campaigns have helped far right parties to establish themselves
 
 .image-container {
   display: flex;
-  justify-content: center; /* Zentriert horizontal */
-  align-items: center; /* Zentriert vertikal */
-  max-width: 100%; /* Um die Bilder innerhalb der Containerbreite zu halten */
+  justify-content: center; 
+  align-items: center; 
+  max-width: 100%; 
 }
 
 .image-container img {
-  max-width: 100%; /* Damit die Bilder sich nicht ausdehnen und innerhalb des Containers bleiben */
+  max-width: 100%; 
 }
 
 <div class="image-container">
