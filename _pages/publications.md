@@ -8,7 +8,7 @@ author_profile: true
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 100%; /* Set a maximum width to ensure they stay on one line */
+  max-width: 90%; /* Set a maximum width to ensure they stay on one line */
 }
 ### **Peer-Reviewed Journal Articles**  
 
