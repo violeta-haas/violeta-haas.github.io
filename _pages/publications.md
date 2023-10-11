@@ -14,6 +14,7 @@ Anti-immigration campaigns have helped far right parties to establish themselves
 
 <p align="center" width="100%">
   <img src="/images/argument.jpg" alt="Theoretical Argument" width="49%">  
+  Test 
   <img src="/images/selection.jpg" alt="Wedge Issue Selection" width="49%">
 </p>  
 
