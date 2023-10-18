@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+{% include base_path %}
 ## Hate in Context
 * *Semester:*  Winter 2023/24 
 * *Institution:* Humboldt-Universität zu Berlin, Department of Social Sciences   
