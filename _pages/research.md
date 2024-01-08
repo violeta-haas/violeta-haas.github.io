@@ -10,8 +10,12 @@ author_profile: true
   <img src="/images/Areas_specialization.png" alt="Areas of Specialization" title="Areas of Specialization" width="40%">   
 </p> 
 
-## **Working Papers**
+## **Working Papers**  
+
 **Panic at the Courtroom: Can Legislative Action against Discrimination in Court Reduce Violence?**  
+<p align="center">
+  <img src="/images/bubble_red.png" alt="Test" title="Test" width="5%">
+</p>
 *Draft available upon request*  
 > **Abstract:** Can legislative action against discrimination in court reduce violence? In recent years, we have seen more and more legislation trying to address emerging regulatory gaps in the protection of gender identity and sexual orientation rights. While previous research documents great benefits of these policies when targeted at the LGBTQ+ population, much less is known about perpetrator-centered approaches. I examine whether the prohibition of the LGBTQ+ "panic" defense, a legal strategy that seeks to blame the victim’s sexual orientation or gender identity for the defendant’s violent behavior, affects the prevalence of hate crimes. To identify the effect of legislative interventions banning this practice, I leverage the gradual roll-out of LGBTQ+ "panic" defense bans across the US and implement a difference-in-differences design. The results show that introducing LGBTQ+ "panic" defense bans lead to significantly lower levels of anti-LGBTQ+ hate crime rates. Besides contributing to the literature on minority politics, policy feedback and hate crime prevention, insights gained from this work are of assistance to policy makers and minority rights advocates.
 <p>&nbsp;</p>   
