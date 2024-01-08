@@ -7,7 +7,7 @@ author_profile: true
 
 
 <p align="center" width="100%">  
-  <img src="/images/Areas_specialization.png" alt="Areas of Specialization" title="Areas of Specialization" width="80%">   
+  <img src="/images/Areas_specialization.png" alt="Areas of Specialization" title="Areas of Specialization" width="40%">   
 </p> 
 
 ## **Working Papers**
