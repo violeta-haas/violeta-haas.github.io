@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+<p align="center" width="100%">  
+  <img src="/images/Areas_specialization.png" alt="Areas of Specialization" title="Areas of Specialization" width="80%">   
+</p> 
 
 ## **Working Papers**
 **Panic at the Courtroom: Can Legislative Action against Discrimination in Court Reduce Violence?**  
