@@ -2,23 +2,10 @@
 layout: archive
 title: "Research"
 permalink: /research/
-header-includes:
-   - \usepackage{tikz}
-   - \usetikzlibrary{shapes.geometric,arrows}
 author_profile: true
 ---
 
-\begin{tikzpicture}
-\begin{scope}[blend group = soft light]
-\fill[red!30!white]   ( 90:1.85) circle (2);
-\fill[green!30!white] (210:1.85) circle (2);
-\fill[blue!30!white]  (330:1.85) circle (2);
-\end{scope}
-\node[text width=9em,align=center] at ( 90:2)    {\textbf{A I:}
-Minority Policies \& Mass Behaviour};
-\node[text width=9em,align=center] at ( 210:2)   {\textbf{A II:} Protest \& Responsiveness};
-\node[text width=9em,align=center] at ( 330:2)   {\textbf{A III:} Party competition \& Electoral Strategies};
-\end{tikzpicture}
+
 
 ## **Working Papers**
 **Panic at the Courtroom: Can Legislative Action against Discrimination in Court Reduce Violence?**  
