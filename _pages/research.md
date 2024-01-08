@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "<div style='text-align:center'>Areas of Specialization</div>"
 permalink: /research/
 author_profile: true
 ---
