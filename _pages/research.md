@@ -17,10 +17,6 @@ author_profile: true
 > **Abstract:** Can legislative action against discrimination in court reduce violence? In recent years, we have seen more and more legislation trying to address emerging regulatory gaps in the protection of gender identity and sexual orientation rights. While previous research documents great benefits of these policies when targeted at the LGBTQ+ population, much less is known about perpetrator-centered approaches. I examine whether the prohibition of the LGBTQ+ "panic" defense, a legal strategy that seeks to blame the victim’s sexual orientation or gender identity for the defendant’s violent behavior, affects the prevalence of hate crimes. To identify the effect of legislative interventions banning this practice, I leverage the gradual roll-out of LGBTQ+ "panic" defense bans across the US and implement a difference-in-differences design. The results show that introducing LGBTQ+ "panic" defense bans lead to significantly lower levels of anti-LGBTQ+ hate crime rates. Besides contributing to the literature on minority politics, policy feedback and hate crime prevention, insights gained from this work are of assistance to policy makers and minority rights advocates.
 <p>&nbsp;</p>   
 
-**The Electoral Effects of State-Sponsored Homophobia**  <img src="/images/bubble_red.png" alt="Test" title="Test" width="3%" align="right">    
--- with [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), [Tarik Abou-Chadi](https://www.tarikabouchadi.net/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Heike Klüver](http://www.heike-kluever.com/) --     
-> **Abstract:** Do strategies of state-sponsored homophobia translate into electoral gains? While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by illiberal elites, few studies have analyzed the electoral effects of these strategies. In particular, whether legal acts of social exclusion activate and mobilize supporters of initiating parties, remains largely unknown. To answer this question, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary election. Using a synthetic difference-in-differences design we find that the adoption of anti-LGBTQ resolutions increased support for the governing Law and Justice party, while decreasing opposition parties' ability to mobilize in these municipalities. Overall, this study's findings are relevant for understanding the electoral consequences of both elite-led mobilization against stigmatized and discriminated groups, and policies of subnational democratic backsliding. 
-<p>&nbsp;</p>  
 
 **The German Hate Crime Dictionary (GHCD): Measuring Spatial and Temporal Trends in Hate Crimes using** <img src="/images/bubble_red.png" alt="Test" title="Test" width="3%" align="right">  
 **Quantitative Text Analysis**   
@@ -55,4 +51,8 @@ author_profile: true
 -- with [Ashrakat Elshehawy](https://www.ashrakatelshehawy.com), [Arun Frey](https://arunfrey.github.io), [Tobias Roemer](https://www.nuffield.ox.ac.uk/people/profiles/tobias-roemer/), [Sascha Riaz](https://saschariaz.com) --  
 
 **Coalition governments and party competition: The electoral implications of ministerial portfolios**  <img src="/images/bubble_blue.png" alt="Test" title="Test" width="3%" align="right">  
--- with [Heike Klüver](http://www.heike-kluever.com/), and [Jae-Jae Spoon](https://www.jaejaespoon.com) --  
+-- with [Heike Klüver](http://www.heike-kluever.com/), and [Jae-Jae Spoon](https://www.jaejaespoon.com) --   
+
+
+**The Electoral Effects of State-Sponsored Homophobia**  <img src="/images/bubble_red.png" alt="Test" title="Test" width="3%" align="right">    
+-- with [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), [Tarik Abou-Chadi](https://www.tarikabouchadi.net/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Heike Klüver](http://www.heike-kluever.com/) --   
