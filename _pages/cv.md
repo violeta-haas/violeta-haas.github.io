@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can take a look at my CV [here](files/CV_Haas_Violeta.pdf)
+You can take a look at my CV [here](/files/CV_Haas_Violeta.pdf)
 
 
