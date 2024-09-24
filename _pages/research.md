@@ -25,10 +25,12 @@ author_profile: true
 > **Abstract:** Do protests matter? A rich body of observational work documents effects of protest on political outcomes such as election results, policy change, public opinion, and political behavior. However, there is a gap in empirical research capable of convincingly testing causal claims about protests and the detailed micro-foundations of the theoretical mechanisms developed in earlier research. We address this by designing and conducting a large-scale field experiment, randomly assigning citizens to observe climate strikes by Fridays for Future (FFF) in Berlin, Germany. Theoretically, we argue that observing political protest serves as a visible cue that conveys summary information about societal attitudes and behaviors, creating the impression of shifting public opinion and social norms. We find that while bystanders adapt their social norm perceptions and behavior in favor of protesters' demands, their attitudes remain largely unchanged. These findings fill an important gap in the literature by unveiling the mechanisms through which protests translate into shifts in political outcomes.    
 <p>&nbsp;</p>  
 
+
 **The Electoral Effects of State-Sponsored Homophobia**      
 -- with [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), [Tarik Abou-Chadi](https://www.tarikabouchadi.net/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Heike Klüver](http://www.heike-kluever.com/) --   
 > **Abstract:**  
 Do strategies of state-sponsored homophobia translate into electoral gains? While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by illiberal elites, little is known about the electoral effects of these strategies. We address this important question by studying whether anti-LGBTQ mobilization pays off electorally for the initiating party. Empirically, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary election. Using a synthetic difference-in-differences design, we find that the adoption of anti-LGBTQ resolutions increased support for the governing Law and Justice (PiS) party while decreasing opposition parties’ ability to mobilize in affected municipalities. Overall, this study’s findings are relevant for understanding the electoral consequences of both elite-led mobilization against stigmatized and discriminated groups, as well as policies of subnational democratic backsliding.  
+<p>&nbsp;</p>  
 
 
 **The Police as Gatekeepers of Information**     
