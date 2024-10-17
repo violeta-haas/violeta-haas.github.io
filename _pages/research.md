@@ -33,13 +33,6 @@ Do strategies of state-sponsored homophobia translate into electoral gains? Whil
 <p>&nbsp;</p>  
 
 
-**The Police as Gatekeepers of Information**     
--- with [Ashrakat Elshehawy](https://www.ashrakatelshehawy.com), [Arun Frey](https://arunfrey.github.io), [Tobias Roemer](https://www.nuffield.ox.ac.uk/people/profiles/tobias-roemer/), [Sascha Riaz](https://saschariaz.com) --   
-> **Abstract:**  
-We use large language models to quantitatively examine the role of the police in shaping public opinion about immigration and crime. While a large and growing literature examines the political biases of media reporting and its effects on political attitudes, this line of research generally overlooks the critical role of the police as primary information gatekeepers in the context of crime. The police, as the initial contact in crime incidents and reporting, have the ability to mold media narratives by choosing which crimes to report and whether to release information about perpetrator characteristics such as nationality or ethnicity. The police are thus causally prior to the news media in the sense that the news media can generally only report information that the police have chosen to disclose. We systematically examine the role of the German police and its reporting behavior using big textual data on more than one million police press statements released between 2013 and 2019. We use large language models that excel at their contextual and semantic understanding to uncover bias in the nature of crime reporting on perpetrators' characteristics. We focus on extracting explicit and implicit indicators of perpetrator ethnicity. We compare our results across traditional NLP techniques and different LLM outputs, particularly Llama, Gemini Pro, ChatGPT 3.5 and ChatGPT 4. We further evaluate our findings against human coders. In a second step, we use a regression discontinuity approach to (i) test whether the police act strategically in what information it chooses to release to the news media prior to elections and (ii) assess the effectiveness of such strategies in influencing electoral outcomes. This research will have important implications for the study of immigration attitudes by highlighting the interdependence between the news media and the police in shaping public discourse.  
-<p>&nbsp;</p>  
-
-
 **The German Hate Crime Dictionary (GHCD): Measuring Spatial and Temporal Trends in Hate Crimes using** 
 **Quantitative Text Analysis**   
 *Draft available upon request*   
@@ -59,7 +52,11 @@ We use large language models to quantitatively examine the role of the police in
 > **Abstract:** Do parallel institutions promote backlash against marginalized groups? While observational studies regularly find marriage equality to increase support for gays and lesbians, same-sex registered partnership tends to either be unrelated or even promote prejudiced attitudes and behavior. In this preregistered survey experiment, I study the individual level mechanism underlying this phenomenon. I argue that integrating minorities into existing benefits will positively affect attitudes toward these groups and increase support for the proposed policy by decreasing perceptions of (a) inter-group differences, (b) realistic, but not symbolic, threat, and (c) a minority-oriented policy motivation. Yet, I predict this effect to be weaker for the introduction of exclusive new benefits. To test my expectations, I run an experimental vignette study in Turkey (N=1500) and randomly assign respondents to one of two hypothetical scenarios (i.e., extension to marriage equality versus introduction of same-sex registered partnership rights) or a control condition. The results have important implications for the broader literature on minority rights and policy feedback, as well as for policy makers that seek ways to prevent backlash.
 <p>&nbsp;</p>)
 -->
+**Beyond the Cordon Sanitaire: Electoral Implications of Mainstream-Radical Right Cooperation**      
+-- with [Phillip Heyna](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/heyna), [Hanno Hilbig](https://www.hannohilbig.com), [Tim Wappenhans](https://www.timwappenhans.com) --   
 
+**The Police as Gatekeepers of Information: How Biased Reporting Shapes Misperceptions of Out-Group Crime**     
+-- with [Ashrakat Elshehawy](https://www.ashrakatelshehawy.com), [Arun Frey](https://arunfrey.github.io), [Tobias Roemer](https://www.nuffield.ox.ac.uk/people/profiles/tobias-roemer/), [Sascha Riaz](https://saschariaz.com) --   
 
 **Coalition governments and party competition: The electoral implications of ministerial portfolios**    
 -- with [Heike Klüver](http://www.heike-kluever.com/), and [Jae-Jae Spoon](https://www.jaejaespoon.com) --   
