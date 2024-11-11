@@ -58,6 +58,9 @@ Do strategies of state-sponsored homophobia translate into electoral gains? Whil
 **The Police as Gatekeepers of Information: How Biased Reporting Shapes Misperceptions of Out-Group Crime**     
 -- with [Ashrakat Elshehawy](https://www.ashrakatelshehawy.com), [Arun Frey](https://arunfrey.github.io), [Tobias Roemer](https://www.nuffield.ox.ac.uk/people/profiles/tobias-roemer/), [Sascha Riaz](https://saschariaz.com) --   
 
+**Norms in Flux**     
+-- with [Mirko Wegemann](https://mirko-wegemann.github.io) --   
+
 **Coalition governments and party competition: The electoral implications of ministerial portfolios**    
 -- with [Heike Klüver](http://www.heike-kluever.com/), and [Jae-Jae Spoon](https://www.jaejaespoon.com) --   
 
