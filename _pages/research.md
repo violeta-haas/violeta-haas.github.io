@@ -33,20 +33,6 @@ Do strategies of state-sponsored homophobia translate into electoral gains? Whil
 <p>&nbsp;</p>  
 
 
-**The German Hate Crime Dictionary (GHCD): Measuring Spatial and Temporal Trends in Hate Crimes using** 
-**Quantitative Text Analysis**   
-*Draft available upon request*   
-> **Abstract:** This paper proposes a new technique for measuring spatial and temporal trends in hate crime incidents based on quantitative text analysis. Applied to a novel and unique data set of over 11,000 police breaking news published between 2015 and 2019, the GHCD proves to be a fast, reliable and valid instrument for detecting descriptions of hate crimes in textual data. The GHCD thus provides policy makers and researchers with an effective tool to assist in the development and evaluation of geographically targeted interventions and the investigation of causes and effects of prejudice motivated crimes.  
-<p>&nbsp;</p>  
-  
-
-**When and why do Parties Respond to Protest? Parties’ Responsiveness to Environmental Protests**   
--- with [Jóhanna Bjarndóttir](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comppol-en/team-comparative-politics/johanna-yr-bjarnadottir), and [António Valentim](https://antoniovalentim.github.io) --   
-> **Abstract:** When do parties respond to protests? A growing body of literature studies the extent to which elites respond to protests, finding mixed results. This paper explores the conditions under which political parties are more likely to respond to protests. We do so by exploring three key expectations in the literature: i. the role of being in power or opposition, ii. that of party ideology and alignment with the protest and iii. that of electoral threat. We test for these using difference-in-differences and regression-discontinuity in time designs on geocoded data on environmental protests, which we combine with party press from 2018-2021. We explore variation in state-level cabinet status in Germany to explore the role of parties’ cabinet status and use state-of-the-art quantitative text analysis to explore the mechanisms of when and how parties respond to protests. Overall, this study’s findings contribute to our understanding of not just whether but when and how parties respond to protests.  
-<p>&nbsp;</p>  
-<p>&nbsp;</p>  
-
-
 ## **Selected Work in Progress**  
 <!--- **Same in all but name? The effects of same-sex partnership recognition rights on public attitudes: Experimental Evidence**    
 > **Abstract:** Do parallel institutions promote backlash against marginalized groups? While observational studies regularly find marriage equality to increase support for gays and lesbians, same-sex registered partnership tends to either be unrelated or even promote prejudiced attitudes and behavior. In this preregistered survey experiment, I study the individual level mechanism underlying this phenomenon. I argue that integrating minorities into existing benefits will positively affect attitudes toward these groups and increase support for the proposed policy by decreasing perceptions of (a) inter-group differences, (b) realistic, but not symbolic, threat, and (c) a minority-oriented policy motivation. Yet, I predict this effect to be weaker for the introduction of exclusive new benefits. To test my expectations, I run an experimental vignette study in Turkey (N=1500) and randomly assign respondents to one of two hypothetical scenarios (i.e., extension to marriage equality versus introduction of same-sex registered partnership rights) or a control condition. The results have important implications for the broader literature on minority rights and policy feedback, as well as for policy makers that seek ways to prevent backlash.
@@ -61,8 +47,6 @@ Do strategies of state-sponsored homophobia translate into electoral gains? Whil
 **Norms in Flux**     
 -- with [Mirko Wegemann](https://mirko-wegemann.github.io) --   
 
-**Coalition governments and party competition: The electoral implications of ministerial portfolios**    
--- with [Heike Klüver](http://www.heike-kluever.com/), and [Jae-Jae Spoon](https://www.jaejaespoon.com) --   
 
 
 
