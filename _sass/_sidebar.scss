@@ -238,8 +238,10 @@
 }
 
 /* Bluesky icon */
-.fa-butterfly::before {
-  content: "🦋";
-  font-style: normal;
+.fa-butterfly {
   font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-style: normal;
+  &::before {
+    content: "🦋";
+  }
 }
