@@ -1,12 +1,51 @@
 ---
 layout: archive
-title: "Areas of Specialization"
+title: 
 permalink: /research/
 author_profile: true
 ---
 
 
 ## **Working Papers**  
+
+<table style="border:none">
+<tr>
+<td style="border:none">
+    <b>Buying Voter Support for Unpopular Policies: Evidence from German Nuclear Power Plants</b> <br>
+    <span class="author-name">Cornelius Erfort</span>, <a href="https://antoniovalentim.github.io">António Valentim</a>, and <a href="http://heike-kluever.com/">Heike Klüver</a> <br>
+    R&R <br>
+    <div class="publication-buttons">
+        <button class="pub-button" onclick="toggleContent('abstract4')">Abstract</button>
+        <button class="pub-button" onclick="toggleContent('bibtex4')">BibTeX</button>
+        <button class="pub-button" onclick="toggleContent('preprint4')">Preprint</button>
+    </div>
+    
+    <div id="abstract4" class="pub-content">
+        How can governments ensure voters' support for unpopular policies? Policymakers often have to implement policies that are unpopular in local communities, such as the construction of windmills or nuclear power plants. However, little is known about how policymakers can increase local support. We argue that perceived economic benefits increase support for otherwise unpopular policies. We test our argument by studying the consequences of nuclear power plants on support for the Green Party in Germany, a strong opponent of nuclear energy. We collected a novel dataset on the geographic location of nuclear plants and voting records since the 1980s. Using difference-in-differences and instrumental variable designs, we find that the opening of nuclear power plants has a negative effect on the vote share of the Greens. Additional individual-level panel analyses suggest that this effect is driven by economic considerations. Overall, these results are relevant for the study of energy transitions and the design of unpopular policies more generally.
+    </div>
+    
+    <div id="bibtex4" class="pub-content">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+            <pre>@unpublished{erfort_valentim_kluver_2024,
+  title = {Buying Voter Support for Unpopular Policies: {Evidence} from {German} Nuclear Power Plants},
+  author = {Erfort, Cornelius and Valentim, António and Klüver, Heike},
+  year = {2024},
+  note = {Under Review},
+  doi = {10.31219/osf.io/jnarh},
+  url = {https://osf.io/jnarh}
+}</pre>
+            <button class="pub-button" onclick="downloadBibtex('bibtex4')">Download</button>
+        </div>
+    </div>
+    
+    <div id="preprint4" class="pub-content">
+        <div class="external-link-content">
+            <a href="https://osf.io/jnarh/" target="_blank" rel="noopener">View on OSF →</a>
+        </div>
+    </div>
+</td>
+</tr>
+</table 
 
 **Panic at the Courtroom: Can Legislative Action against Discrimination in Court Reduce Violence?**  
 *Draft available upon request*  
@@ -16,7 +55,7 @@ author_profile: true
 
 **The Electoral Effects of State-Sponsored Homophobia**      
 -- with [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), [Tarik Abou-Chadi](https://www.tarikabouchadi.net/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Heike Klüver](http://www.heike-kluever.com/) --  
-*Under Review*  
+*R&R*  
 > **Abstract:**  Do strategies of state-sponsored homophobia translate into electoral gains? While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by illiberal elites, little is known about the electoral effects of these strategies. We address this important question by studying whether anti-LGBTQ mobilization pays off electorally for the initiating party. Empirically, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary election. Using a synthetic difference-in-differences design, we find that the adoption of anti-LGBTQ resolutions increased support for the governing Law and Justice (PiS) party while decreasing opposition parties’ ability to mobilize in affected municipalities. Overall, this study’s findings are relevant for understanding the electoral consequences of both elite-led mobilization against stigmatized and discriminated groups, as well as policies of subnational democratic backsliding.  
 <p>&nbsp;</p>  
 
