@@ -236,3 +236,10 @@
     }
   }
 }
+
+/* Bluesky icon */
+.fa-butterfly::before {
+  content: "🦋";
+  font-style: normal;
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
