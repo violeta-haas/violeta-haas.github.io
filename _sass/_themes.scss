@@ -90,6 +90,8 @@ body {
   cursor: pointer;
   box-shadow: var(--card-shadow);
   transition: all 0.3s ease;
+  opacity: 1 !important;
+  visibility: visible !important;
 }
 
 .theme-toggle:hover {
@@ -99,4 +101,6 @@ body {
 .theme-toggle i {
   color: var(--text-color);
   font-size: 20px;
+  display: block !important;
+  visibility: visible !important;
 } 
