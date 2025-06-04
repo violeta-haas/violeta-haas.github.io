@@ -11,7 +11,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  transition: background-color 0.3s ease;
   user-select: none;
 
   &:hover {
@@ -34,21 +33,14 @@
 }
 
 .abstract-content {
-  max-height: 0;
-  overflow: hidden;
-  transition: all 0.3s ease-out;
-  padding: 0;
-  margin: 0;
-  border: 1px solid transparent;
+  display: none;
+  padding: 10px;
+  margin-top: -1px;
+  border: 1px solid #ddd;
   border-top: none;
   border-radius: 0 0 4px 4px;
-  opacity: 0;
 
   &.expanded {
-    max-height: 2000px;
-    padding: 10px;
-    margin-top: -1px;
-    border-color: #ddd;
-    opacity: 1;
+    display: block;
   }
 } 
