@@ -66,8 +66,6 @@ author_profile: true
 **Norms in Flux**     
 -- with [Mirko Wegemann](https://mirko-wegemann.github.io) --   
 
-<script src="{{ '/assets/js/abstracts.js' | relative_url }}"></script>
-
 
 
 
