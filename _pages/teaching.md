@@ -20,8 +20,15 @@ author_profile: true
 * *Institution:* Humboldt-Universität zu Berlin, Department of Social Sciences   
 * *Position:* Lecturer    
 
+## Intro to Large Language Models in Social Sciences
+* *Semester:*  Winter 2024/25  
+* *Institution:* Humboldt-Universität zu Berlin, Department of Social Sciences   
+* *Position:* Guest Lecturer   
+* *Slides:* [here](/files/Guest_Lecture_QTA_with_GPT.pdf)  
+* *Library:* [here](https://www.zotero.org/groups/5834393/llms_in_social_sciences/library)  
+
 
 ## Statistics I & II  
 * *Semester:*  Winter 2015/16 - Winter 2018/19  
 * *Institution:* Humboldt-Universität zu Berlin, Department of Social Sciences   
-* *Position:* Teaching Assistant 
+* *Position:* Teaching Assistant  
