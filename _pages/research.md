@@ -16,7 +16,7 @@ author_profile: true
 
 **The Electoral Effects of State-Sponsored Homophobia**      
 -- with [Konstantin Bogatyrev](https://sites.google.com/view/konstantin-bogatyrev/), [Tarik Abou-Chadi](https://www.tarikabouchadi.net/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Heike Klüver](http://www.heike-kluever.com/) --  
-*R&R*   
+*conditional acceptance at the Journal of Politics*   
 [Download Working Paper](https://files.osf.io/v1/resources/wvnbr_v1/providers/osfstorage/67b46d9c370ae8864719f134?action=download&direct&version=2)  
 > **Abstract:**  Do strategies of state-sponsored homophobia translate into electoral gains? While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by illiberal elites, little is known about the electoral effects of these strategies. We address this important question by studying whether anti-LGBTQ mobilization pays off electorally for the initiating party. Empirically, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary election. Using a synthetic difference-in-differences design, we find that the adoption of anti-LGBTQ resolutions increased support for the governing Law and Justice (PiS) party while decreasing opposition parties' ability to mobilize in affected municipalities. Overall, this study's findings are relevant for understanding the electoral consequences of both elite-led mobilization against stigmatized and discriminated groups, as well as policies of subnational democratic backsliding.  
 <p>&nbsp;</p>  
