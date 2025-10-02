@@ -19,4 +19,4 @@ On this website you can find my [publications](https://violeta-haas.github.io/pu
 ### News:  
 
 Haas, V. I., Bogatyrev, K., Abou-Chadi, T., Klüver, H., Stoetzer, L. F. (2025). [**The Electoral Effects of State-Sponsored Anti-LGBTQ Measures**]() *conditional accept at the Journal of Politics*  
-[Download Working Paper]([https://files.osf.io/v1/resources/wvnbr_v1/providers/osfstorage/67b46d9c370ae8864719f134?action=download&direct&version=2](https://doi.org/10.31219/osf.io/wvnbr_v3)) 
+[Download Working Paper](https://doi.org/10.31219/osf.io/wvnbr_v3) 
