@@ -35,17 +35,12 @@ author_profile: true
 <p>&nbsp;</p>  
 
 
-**Electoral Responses to Local Cooperations with Radical-Right Parties**      
--- with [Phillip Heyna](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/heyna), [Hanno Hilbig](https://www.hannohilbig.com), [Tim Wappenhans](https://www.timwappenhans.com) --  
-> **Abstract:**  Electoral gains by radical-right parties have sparked intense debate over whether mainstream parties should engage in cooperative arrangements with them. While existing research has concentrated on national-level cooperations in the form of government participation and programmatic accommodation, systematic and causal evidence on local-level cooperation remains sparse. Yet, the local political arena, we argue, may constitute a distinct strategic environment wherein cooperation is often driven by pragmatic governance imperatives rather than ideological affinity. This paper addresses this gap by focusing on German municipal legislatures, where mainstream parties have occasionally collaborated with the Alternative für Deutschland (AfD). Using newly collected data on six different types of cooperative engagement between 2019 and 2024, we employ both a standard two-period difference-in-differences and a synthetic difference-in-differences approach to assess the electoral consequences of such cooperations. We find preliminary evidence that cooperations are associated with significant subsequent losses in electoral support for the AfD, with more pronounced penalties when the cooperation is highly visible. We theorize that these effects may stem from (i) a reduction in the AfD's anti-establishment appeal, (ii) a shift in voter attention from ideologically polarizing issues to pragmatic concerns of local governance, and (iii) the enhancement of mainstream parties’ reputational signals of competence. To explore these mechanisms, we use a large language model (GPT-4.1) to analyze over 180,000 local news articles referencing the AfD, systematically extracting information on party portrayals, issue salience, and cooperation narratives. 
-
-
 ## **Selected Work in Progress**  
-
 
 **How Good Ancestors Make Good Citizens: Norm Legacies and the Activation of Civic Virtue**     
 -- with [Mirko Wegemann](https://mirko-wegemann.github.io) --   
+<p>&nbsp;</p>  
 
-
-
+**Electoral Responses to Local Cooperations with Radical-Right Parties**      
+-- with [Phillip Heyna](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/heyna), [Hanno Hilbig](https://www.hannohilbig.com), [Tim Wappenhans](https://www.timwappenhans.com) --   
 
