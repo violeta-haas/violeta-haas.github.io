@@ -24,7 +24,6 @@ author_profile: true
 * *Semester:*  Winter 2024/25  
 * *Institution:* Humboldt-Universität zu Berlin, Department of Social Sciences   
 * *Position:* Guest Lecturer   
-* *Slides:* [here](/files/Guest_Lecture_QTA_with_GPT.pdf)  
 * *Library:* [here](https://www.zotero.org/groups/5834393/llms_in_social_sciences/library)  
 
 
