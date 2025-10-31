@@ -8,7 +8,7 @@ author_profile: true
 
 ## **Working Papers**   
 
-**Panic at the Courtroom: Can Legislative Action against Discrimination in Court Reduce Violence?**  
+**Panic at the Courtroom: Can Legislative Action against Discrimination in Court Reduce Hate Crimes?**  
 *Job Market Paper, Draft available upon request*  
 > **Abstract:** Can legislative measures against discrimination in court reduce bias-motivated behavior? This study examines the impact of criminal code reforms that prohibit the LGBTQ+ "panic" defense, a legal strategy that attributes a defendant's violent actions to a victim's sexual orientation or gender identity, on the incidence of hate crimes. I argue that such reforms operate through two mechanisms: first, by increasing the material costs of engaging in bias-motivated violence through heightened legal sanctions, and second, by signaling institutional disapproval of violence as a means of enforcing heteronormative and masculinist norms. To assess the causal effect of these reforms, I exploit the staggered adoption of LGBTQ+ "panic" defense bans across US states and employ a difference-in-differences design. The findings indicate that states implementing bans experience a significant reduction in anti-LGBTQ+ hate crimes. This study advances scholarship on minority rights, policy feedback, and the criminal justice system by demonstrating how legal reforms shape social norms and constrain bias-driven violence. The results also have direct implications for policymakers and advocates seeking to mitigate hate crimes through judicial and legislative interventions.  
 <p>&nbsp;</p>   
