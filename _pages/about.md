@@ -15,6 +15,7 @@ My research focuses on the **political economy of crime and discrimination**. In
 On this website you can find my [publications](https://violeta-haas.github.io/publications/), download my [CV](https://violeta-haas.github.io/cv/) and learn more about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile. Feel free to [reach out](mailto:violeta.haas@iast.fr) if you are interested in my research and would like to chat :coffee:  
 <p>&nbsp;</p>   
 
+When not buried in papers and datasets, I’m probably hunting for records. Always happy to share concert tips, obscure vinyl recommendations, or obsess over how live music is the best form of human connection. 
 
 ### News:  
 
