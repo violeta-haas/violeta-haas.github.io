@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### **Peer-Reviewed Publications**  
+## **Peer-Reviewed Publications**  
 
 Haas, V. I., Bogatyrev, K., Klüver, H., & Stoetzer, L. F. (2025). [**The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.**](https://doi.org/10.31219/osf.io/wvnbr_v3) *Accepted at the **Journal of Politics***   
 > **Abstract:**  Do strategies of state-sponsored homophobia translate into electoral gains? While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by illiberal elites, little is known about the electoral effects of these strategies. We address this important question by studying whether anti-LGBTQ mobilization pays off electorally for government parties. Empirically, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary election. Using a synthetic difference-in-differences design, we find that these resolutions significantly depressed turnout in affected municipalities, with opposition parties showing less mobilization capacity. By contrast, turnout for the incumbent Law and Justice Party increased. Overall, this study's findings are relevant for understanding the electoral consequences of both elite-led mobilization against stigmatized and discriminated groups and policies of subnational democratic backsliding.    
