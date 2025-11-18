@@ -19,5 +19,12 @@ When not buried in papers and datasets, I’m probably hunting for records. Alwa
 
 ### News:  
 
-Haas, V. I., Bogatyrev, K., Abou-Chadi, T., Klüver, H., Stoetzer, L. F. (2025). [**The Electoral Effects of State-Sponsored Anti-LGBTQ Measures**]() *Accepted at the Journal of Politics*  
-[Download Working Paper](https://doi.org/10.31219/osf.io/wvnbr_v3) 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 20px; flex-shrink: 0;">
+    <img src="/files/jop.jpg" alt="Publication image" style="width: 150px; height: auto; border-radius: 4px;">
+  </div>
+  <div style="flex: 1;">
+    <p>Haas, V. I., Bogatyrev, K., Abou-Chadi, T., Klüver, H., Stoetzer, L. F. (2025). <strong>The Electoral Effects of State-Sponsored Anti-LGBTQ Measures</strong> <em>Accepted at the Journal of Politics</em></p>
+    <p><a href="https://doi.org/10.31219/osf.io/wvnbr_v3">Download Working Paper</a></p>
+  </div>
+</div> 
