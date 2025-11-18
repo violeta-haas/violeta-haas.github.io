@@ -40,8 +40,7 @@ Haas, V. I., Stoetzer, L. F., Schleiter, P., & Klüver, H. (2023). [**Can wedge 
 ## **Selected Work in Progress**  
 
 **How Good Ancestors Make Good Citizens: Norm Legacies and the Activation of Civic Virtue**     
--- with [Mirko Wegemann](https://mirko-wegemann.github.io) --   
-<p>&nbsp;</p>  
+-- with [Mirko Wegemann](https://mirko-wegemann.github.io) --    
 
 **Electoral Responses to Local Cooperations with Radical-Right Parties**      
 -- with [Phillip Heyna](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/heyna), [Hanno Hilbig](https://www.hannohilbig.com), [Tim Wappenhans](https://www.timwappenhans.com) --   
