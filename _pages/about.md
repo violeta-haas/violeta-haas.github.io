@@ -12,7 +12,7 @@ I am a Postdoctoral Research Fellow at the [Institute for Advanced Study in Toul
 
 My research focuses on the **political economy of crime and discrimination**. In particular, I investigate (1) how judicial reforms affect hate crimes, (2) how the police strategically report on crime, and (3) how policies targeting marginalized groups are used for political gain. My side projects include work on parties, social norms, and protest. Some of my work has been published or accepted for publication in *Electoral Studies* and *The Journal of Politics*. Methodologically, I specialize in causal identification and computational social science, combining field, natural, and survey experiments, with recent advancements in Natural Language Processing.
 
-On this website you can find my [publications](https://violeta-haas.github.io/publications/), download my [CV](https://violeta-haas.github.io/cv/) and learn more about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile. Feel free to [reach out](mailto:violeta.haas@iast.fr) if you are interested in my research and would like to chat :coffee:  
+On this website, you can learn more about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile, and download my [CV](https://violeta-haas.github.io/cv/). Feel free to [reach out](mailto:violeta.haas@iast.fr) if you are interested in my research and would like to chat :coffee:  
 
 When not buried in papers and datasets, I’m probably hunting for records. Always happy to share concert tips, obscure vinyl recommendations, or obsess over how live music is the best form of human connection.  
 <p>&nbsp;</p>   
