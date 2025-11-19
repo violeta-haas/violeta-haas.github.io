@@ -24,7 +24,7 @@ When not buried in papers and datasets, I’m probably hunting for records. Alwa
     <img src="/files/jop.jpg" alt="Publication image" style="width: 150px; height: auto; border-radius: 4px;">
   </div>
   <div style="flex: 1;">
-    <p>Haas, V. I., Bogatyrev, K., Abou-Chadi, T., Klüver, H., Stoetzer, L. F. (2025). <strong>The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.</strong><em> Accepted at the <strong>Journal of Politics</strong></em></p>
+    <p>Haas, V. I., Bogatyrev, K., Abou-Chadi, T., Klüver, H., Stoetzer, L. F. (2025). <strong>The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.</strong><em> Accepted at the <strong>Journal of Politics.</strong></em></p>
     <p><a href="https://doi.org/10.31219/osf.io/wvnbr_v3">Download the Paper</a></p>
   </div>
 </div> 
