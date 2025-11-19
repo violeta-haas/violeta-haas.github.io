@@ -17,7 +17,7 @@ On this website you can find my [publications](https://violeta-haas.github.io/pu
 When not buried in papers and datasets, I’m probably hunting for records. Always happy to share concert tips, obscure vinyl recommendations, or obsess over how live music is the best form of human connection.  
 <p>&nbsp;</p>   
 
-### News:  
+## News:  
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="margin-right: 20px; flex-shrink: 0;">
