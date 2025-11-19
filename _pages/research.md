@@ -53,7 +53,7 @@ author_profile: false
 
 ## **Selected Work in Progress**  
 
-**How Good Ancestors Make Good Citizens: Norm Legacies and the Activation of Civic Virtue**     
+**How Good Ancestors Make Good Citizens: Norm Legacies and the Activation of Pro-Social Behavior**     
 -- with [Mirko Wegemann](https://mirko-wegemann.github.io) --    
 
 **Electoral Responses to Local Cooperations with Radical-Right Parties**      
