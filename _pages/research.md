@@ -12,7 +12,7 @@ author_profile: false
     <img src="/files/jop.jpg" alt="Publication image" style="width: 150px; height: auto; border-radius: 4px;">
   </div>
   <div style="flex: 1;">
-    <p>Haas, V. I., Bogatyrev, K., Klüver, H., & Stoetzer, L. F. (2025). <a href="https://doi.org/10.31219/osf.io/wvnbr_v3"><strong>The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.</strong></a> Accepted at <em>The Journal of Politics</em>.</p>
+    <p>Haas, V. I., Bogatyrev, K., Klüver, H., & Stoetzer, L. F. (2025). <a href="https://www.journals.uchicago.edu/doi/10.1086/739782"><strong>The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.</strong></a> Accepted at <em>The Journal of Politics</em>.</p>
       <p><strong>Abstract:</strong> Do strategies of state-sponsored homophobia translate into electoral gains? While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by illiberal elites, little is known about the electoral effects of these strategies. We address this important question by studying whether anti-LGBTQ mobilization pays off electorally for government parties. Empirically, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary election. Using a synthetic difference-in-differences design, we find that these resolutions significantly depressed turnout in affected municipalities, with opposition parties showing less mobilization capacity. By contrast, turnout for the incumbent Law and Justice Party increased. Overall, this study's findings are relevant for understanding the electoral consequences of both elite-led mobilization against stigmatized and discriminated groups and policies of subnational democratic backsliding.</p>
   </div>
 </div>
