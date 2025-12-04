@@ -55,7 +55,7 @@ author_profile: false
 
 ## **Selected Work in Progress**  
 
-**Mapping Queer Geographies: Automated Detection of Inclusive Spaces using Google Street View**   
+**Mapping Queer Geographies: Measuring Segregation and Contact in Space using AI**   
 
 **How Good Ancestors Make Good Citizens: Norm Legacies and the Activation of Pro-Social Behavior**     
 -- with [Mirko Wegemann](https://mirko-wegemann.github.io) --    
