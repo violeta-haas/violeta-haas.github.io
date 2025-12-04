@@ -14,7 +14,6 @@ My research explores the **politics of belonging**, examining how institutions a
 
 On this website, you can learn more about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile, and download my [CV](https://violeta-haas.github.io/cv/). Feel free to [reach out](mailto:violeta.haas@iast.fr) if you are interested in my research and would like to chat :coffee:  
 
-When not buried in papers and datasets, I’m probably hunting for records. Always happy to share concert tips, obscure vinyl recommendations, or obsess over how live music is the best form of human connection.  
 <p>&nbsp;</p>   
 
 ## News:  
