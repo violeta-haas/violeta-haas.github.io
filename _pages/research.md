@@ -55,7 +55,9 @@ author_profile: false
 
 ## **Selected Work in Progress**  
 
-**Mapping Queer Geographies: Measuring Segregation and Contact in Space using AI**   
+**Signs of Belonging: Measuring Group Segregation and Contact in Space**   
+
+**Same in all but Name? Parallel Institutions in Present-Day Democracies**  
 
 **How Good Ancestors Make Good Citizens: Norm Legacies and the Activation of Pro-Social Behavior**     
 -- with [Mirko Wegemann](https://mirko-wegemann.github.io) --    
