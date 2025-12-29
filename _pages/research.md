@@ -55,7 +55,7 @@ author_profile: false
 
 ## **Selected Work in Progress**  
 
-**Signs of Belonging: Measuring Group Segregation and Contact in Space**   
+**Signs of Belonging: Measuring Group Segregation and Contact in Space using AI**   
 
 **Same in all but Name? Parallel Institutions in Present-Day Democracies**  
 
