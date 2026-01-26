@@ -18,6 +18,10 @@ On this website, you can learn more about my [research](https://violeta-haas.git
 
 ## News:  
 
+<div style="margin-bottom: 20px;">
+  <p><strong>January 2026:</strong> I received an <a href="https://theihs.org/">Institute for Humane Studies (IHS)</a> grant, funded by the <a href="https://www.cosmosinstitute.org/">Cosmos Institute</a>, to support my project on <em>AI Tool Experimentation: Measuring Group Segregation and Contact in Space Through Names, Symbols, and Pictures</em>.</p>
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="margin-right: 20px; flex-shrink: 0;">
     <img src="/files/jop.jpg" alt="Publication image" style="width: 150px; height: auto; border-radius: 4px;">
