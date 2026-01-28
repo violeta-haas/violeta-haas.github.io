@@ -6,64 +6,15 @@ author_profile: false
 ---
 
 <style>
-/* Override Susy grid system to make archive full width */
-#main {
-  max-width: 100% !important;
-}
-
-/* Hide sidebar completely */
-#main .sidebar {
-  display: none !important;
-  width: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* Make archive full width */
-#main .archive {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  float: none !important;
-  clear: both !important;
-}
-
-/* Override Susy grid calculations at all breakpoints */
+/* Match the positioning of the about page content */
+/* The about page content accounts for sidebar (2 cols) + prefix (0.5 cols) */
 @media (min-width: 925px) {
-  #main {
-    max-width: 100% !important;
-  }
-  
   #main .archive {
-    width: 100% !important;
-    max-width: 100% !important;
     margin-left: 0 !important;
-    margin-right: 0 !important;
     padding-left: 0 !important;
-    padding-right: 0 !important;
-    float: none !important;
-    clear: both !important;
-  }
-  
-  #main .sidebar {
-    display: none !important;
-    width: 0 !important;
-  }
-}
-
-@media (min-width: 1280px) {
-  #main {
-    max-width: 100% !important;
-  }
-  
-  #main .archive {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+    /* Approximate the offset: sidebar (2 cols) + gutter + prefix (0.5 cols) */
+    /* Using Susy's fluid grid calculation */
+    margin-left: 20.83333% !important; /* approximately 2.5/12 of container */
   }
 }
 </style>
