@@ -19,6 +19,12 @@ author_profile: false
   padding-left: 80px;
   padding-bottom: 30px;
   margin-bottom: 20px;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.timeline-item:hover {
+  transform: translateX(4px);
+  opacity: 0.95;
 }
 
 .timeline-item::before {
@@ -50,13 +56,15 @@ author_profile: false
 
 .timeline-date {
   position: absolute;
-  left: 0;
+  left: -80px;
   top: 0;
   width: 70px;
   font-weight: 600;
   color: #6b7280;
   font-size: 14px;
   line-height: 1.4;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .timeline-content {
@@ -65,8 +73,11 @@ author_profile: false
 
 .timeline-content h3 {
   margin-top: 0;
-  margin-bottom: 8px;
-  font-size: 1.25em;
+  margin-bottom: 12px;
+  font-size: 1.4em;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #1f2937;
 }
 
 .timeline-content p {
@@ -88,22 +99,13 @@ author_profile: false
 <div class="timeline">
 
 <div class="timeline-item">
-  <div class="timeline-date">2025<br>Jun</div>
-  <div class="timeline-content">
-    <h3>Inclusion/exclusion in the political sphere: suffrage extensions and quotas</h3>
-    <p><strong>Institution:</strong> Toulouse Summer School in Quantitative Social Sciences</p>
-    <p><strong>Position:</strong> Instructor for student presentations and discussion</p>
-  </div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-date">2024-<br>2026</div>
+  <div class="timeline-date">2025/2026</div>
   <div class="timeline-content">
     <h3>Intro: Using Large Language Models in Social Science Research</h3>
-    <p><strong>Semester:</strong> Winter 2024/25 + 2025/2026</p>
+    <p><strong>Dates:</strong> January 2025 & 2026</p>
     <p><strong>Institution:</strong> Humboldt-Universität zu Berlin, Department of Social Sciences</p>
     <p><strong>Position:</strong> Guest Lecturer</p>
-    <p><strong>Library:</strong> <a href="https://www.zotero.org/groups/5834393/llms_in_social_sciences/library">here</a></p>
+    <p><strong>Library:</strong> <a href="https://www.zotero.org/groups/5834393/llms_in_social_sciences/library">View course library</a></p>
     <div style="border: 1px solid #d1d5db; border-radius: 6px; padding: 16px; margin: 16px 0; background-color: #f9fafb;">
       <a href="https://github.com/violeta-haas/Intro-LLMs-in-Social-Science-Research" style="text-decoration: none; color: inherit; display: block;">
         <div style="display: flex; align-items: flex-start; gap: 12px;">
@@ -128,21 +130,27 @@ author_profile: false
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">2023-<br>2024</div>
+  <div class="timeline-date">2025</div>
+  <div class="timeline-content">
+    <h3>Inclusion/exclusion in the political sphere: suffrage extensions and quotas</h3>
+    <p><strong>Institution:</strong> Toulouse Summer School in Quantitative Social Sciences</p>
+    <p><strong>Position:</strong> Instructor for student presentations and discussion</p>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">2023/2024</div>
   <div class="timeline-content">
     <h3>Hate in Context</h3>
     <p><strong>Semester:</strong> Winter 2023/24</p>
     <p><strong>Institution:</strong> Humboldt-Universität zu Berlin, Department of Social Sciences</p>
     <p><strong>Position:</strong> Lecturer</p>
-    <p><strong>Syllabus:</strong> <a href="/files/Hate_in_Context_Syllabus_V5.pdf">here</a></p>
-    <blockquote style="margin-top: 12px; padding-left: 16px; border-left: 3px solid #e5e7eb; color: #6b7280; font-size: 0.95em;">
-      <strong>Abstract:</strong> Hate crimes are on the rise, and so is support for political violence. Because of their subjugating and oppressing nature, bias-motivated offenses are generally viewed as qualitatively different in their effects. Compared to their non-bias-motivated counterparts, hate crimes strike thrice. First, by targeting the immediate victim; second, by sending a "message" to the victim's perceived community; and third, by calling into question an open societies' commitment to inclusion, equity and tolerance. As such, hate crimes pose a serious threat to democratic ideals and to the complex challenge of maintaining and strengthening a peaceful coexistence. In this course, we will explore the contextual drivers of hate crimes through a quantitative lens. By examining the existing literature, we will investigate the impact of various social, economic, political, and institutional factors on the frequency and prevalence of hate crimes. In addition to exploring the causes of hate crimes, we will also critically examine strategies aimed at preventing these acts. The course will feature at least one guest lecture by a scholar in the field or a member of a civil society organization focused on addressing this issue. In addition to theoretical knowledge, this course emphasizes practical experience with empirical research. We will engage with common datasets, learn about relevant research designs and replicate existing studies. The culmination of the course will be a final exhibition and round-table discussion, open to the public. This event will offer an opportunity to showcase the knowledge gained throughout the course and engage in conversation about the underlying causes of hate crimes as well as potential avenues for prevention.
-    </blockquote>
+    <p><strong>Syllabus:</strong> <a href="/files/Hate_in_Context_Syllabus_V5.pdf">View course syllabus</a></p>
   </div>
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">2022-<br>2023</div>
+  <div class="timeline-date">2022/2023</div>
   <div class="timeline-content">
     <h3>Comparative Politics and International Relations</h3>
     <p style="color: #f59e0b; font-weight: 600;">🏆 Good Teaching Award 2023 at Humboldt-Universität zu Berlin (2nd place)</p>
@@ -153,7 +161,7 @@ author_profile: false
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">2015-<br>2019</div>
+  <div class="timeline-date">2015-2019</div>
   <div class="timeline-content">
     <h3>Statistics I & II</h3>
     <p><strong>Semester:</strong> Winter 2015/16 - Winter 2018/19</p>

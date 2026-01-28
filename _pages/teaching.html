@@ -77,6 +77,12 @@ ul.task-list li input[type="checkbox"] {
   padding-left: 80px;
   padding-bottom: 30px;
   margin-bottom: 20px;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.timeline-item:hover {
+  transform: translateX(4px);
+  opacity: 0.95;
 }
 
 .timeline-item::before {
@@ -108,13 +114,15 @@ ul.task-list li input[type="checkbox"] {
 
 .timeline-date {
   position: absolute;
-  left: 0;
+  left: -80px;
   top: 0;
   width: 70px;
   font-weight: 600;
   color: #6b7280;
   font-size: 14px;
   line-height: 1.4;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .timeline-content {
@@ -123,8 +131,11 @@ ul.task-list li input[type="checkbox"] {
 
 .timeline-content h3 {
   margin-top: 0;
-  margin-bottom: 8px;
-  font-size: 1.25em;
+  margin-bottom: 12px;
+  font-size: 1.4em;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #1f2937;
 }
 
 .timeline-content p {
@@ -145,24 +156,14 @@ ul.task-list li input[type="checkbox"] {
 <div class="timeline">
 <div class="timeline-item">
 <div class="timeline-date">
-2025<br>Jun
-</div>
-<div class="timeline-content">
-<pre><code>&lt;h3&gt;Inclusion/exclusion in the political sphere: suffrage extensions and quotas&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Toulouse Summer School in Quantitative Social Sciences&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Instructor for student presentations and discussion&lt;/p&gt;</code></pre>
-</div>
-</div>
-<div class="timeline-item">
-<div class="timeline-date">
-2024-<br>2026
+2025/2026
 </div>
 <div class="timeline-content">
 <pre><code>&lt;h3&gt;Intro: Using Large Language Models in Social Science Research&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Semester:&lt;/strong&gt; Winter 2024/25 + 2025/2026&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dates:&lt;/strong&gt; January 2025 &amp; 2026&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Humboldt-Universität zu Berlin, Department of Social Sciences&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Guest Lecturer&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Library:&lt;/strong&gt; &lt;a href="https://www.zotero.org/groups/5834393/llms_in_social_sciences/library"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Library:&lt;/strong&gt; &lt;a href="https://www.zotero.org/groups/5834393/llms_in_social_sciences/library"&gt;View course library&lt;/a&gt;&lt;/p&gt;
 &lt;div style="border: 1px solid #d1d5db; border-radius: 6px; padding: 16px; margin: 16px 0; background-color: #f9fafb;"&gt;
   &lt;a href="https://github.com/violeta-haas/Intro-LLMs-in-Social-Science-Research" style="text-decoration: none; color: inherit; display: block;"&gt;
     &lt;div style="display: flex; align-items: flex-start; gap: 12px;"&gt;
@@ -187,22 +188,29 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="timeline-item">
 <div class="timeline-date">
-2023-<br>2024
+2025
+</div>
+<div class="timeline-content">
+<pre><code>&lt;h3&gt;Inclusion/exclusion in the political sphere: suffrage extensions and quotas&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Toulouse Summer School in Quantitative Social Sciences&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Instructor for student presentations and discussion&lt;/p&gt;</code></pre>
+</div>
+</div>
+<div class="timeline-item">
+<div class="timeline-date">
+2023/2024
 </div>
 <div class="timeline-content">
 <pre><code>&lt;h3&gt;Hate in Context&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Semester:&lt;/strong&gt; Winter 2023/24&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Humboldt-Universität zu Berlin, Department of Social Sciences&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Lecturer&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Syllabus:&lt;/strong&gt; &lt;a href="/files/Hate_in_Context_Syllabus_V5.pdf"&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote style="margin-top: 12px; padding-left: 16px; border-left: 3px solid #e5e7eb; color: #6b7280; font-size: 0.95em;"&gt;
-  &lt;strong&gt;Abstract:&lt;/strong&gt; Hate crimes are on the rise, and so is support for political violence. Because of their subjugating and oppressing nature, bias-motivated offenses are generally viewed as qualitatively different in their effects. Compared to their non-bias-motivated counterparts, hate crimes strike thrice. First, by targeting the immediate victim; second, by sending a "message" to the victim's perceived community; and third, by calling into question an open societies' commitment to inclusion, equity and tolerance. As such, hate crimes pose a serious threat to democratic ideals and to the complex challenge of maintaining and strengthening a peaceful coexistence. In this course, we will explore the contextual drivers of hate crimes through a quantitative lens. By examining the existing literature, we will investigate the impact of various social, economic, political, and institutional factors on the frequency and prevalence of hate crimes. In addition to exploring the causes of hate crimes, we will also critically examine strategies aimed at preventing these acts. The course will feature at least one guest lecture by a scholar in the field or a member of a civil society organization focused on addressing this issue. In addition to theoretical knowledge, this course emphasizes practical experience with empirical research. We will engage with common datasets, learn about relevant research designs and replicate existing studies. The culmination of the course will be a final exhibition and round-table discussion, open to the public. This event will offer an opportunity to showcase the knowledge gained throughout the course and engage in conversation about the underlying causes of hate crimes as well as potential avenues for prevention.
-&lt;/blockquote&gt;</code></pre>
+&lt;p&gt;&lt;strong&gt;Syllabus:&lt;/strong&gt; &lt;a href="/files/Hate_in_Context_Syllabus_V5.pdf"&gt;View course syllabus&lt;/a&gt;&lt;/p&gt;</code></pre>
 </div>
 </div>
 <div class="timeline-item">
 <div class="timeline-date">
-2022-<br>2023
+2022/2023
 </div>
 <div class="timeline-content">
 <pre><code>&lt;h3&gt;Comparative Politics and International Relations&lt;/h3&gt;
@@ -214,7 +222,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="timeline-item">
 <div class="timeline-date">
-2015-<br>2019
+2015-2019
 </div>
 <div class="timeline-content">
 <pre><code>&lt;h3&gt;Statistics I &amp; II&lt;/h3&gt;
