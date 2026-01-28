@@ -5,6 +5,21 @@ permalink: /research/
 author_profile: false
 ---
 
+<style>
+#main {
+  max-width: 100% !important;
+}
+.archive {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+.page__content {
+  max-width: 100% !important;
+}
+</style>
+
 ## **Peer-Reviewed Publications**  
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -62,7 +77,8 @@ author_profile: false
 
 ## **Selected Work in Progress**  
 
-**Signs of Belonging: Measuring Group Segregation and Contact in Space using AI**   
+**Signs of Belonging: Measuring Group Segregation and Contact in Space using AI**  
+*Grant awarded by the Institute for Humane Studies (IHS) at George Mason University, Cosmos x IHS AI-Accelerated Scholarship Program*   
 
 **Same in all but Name? Parallel Institutions in Present-Day Democracies**   
 
