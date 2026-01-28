@@ -5,20 +5,6 @@ permalink: /research/
 author_profile: false
 ---
 
-<style>
-/* Match the positioning of the about page content */
-/* The about page content accounts for sidebar (2 cols) + prefix (0.5 cols) */
-@media (min-width: 925px) {
-  #main .archive {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-    /* Approximate the offset: sidebar (2 cols) + gutter + prefix (0.5 cols) */
-    /* Using Susy's fluid grid calculation */
-    margin-left: 20.83333% !important; /* approximately 2.5/12 of container */
-  }
-}
-</style>
-
 ## **Peer-Reviewed Publications**  
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
