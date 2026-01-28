@@ -6,17 +6,65 @@ author_profile: false
 ---
 
 <style>
+/* Override Susy grid system to make archive full width */
 #main {
   max-width: 100% !important;
 }
-.archive {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin-left: 0 !important;
-  padding-left: 0 !important;
+
+/* Hide sidebar completely */
+#main .sidebar {
+  display: none !important;
+  width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
-.page__content {
+
+/* Make archive full width */
+#main .archive {
+  width: 100% !important;
   max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  float: none !important;
+  clear: both !important;
+}
+
+/* Override Susy grid calculations at all breakpoints */
+@media (min-width: 925px) {
+  #main {
+    max-width: 100% !important;
+  }
+  
+  #main .archive {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    float: none !important;
+    clear: both !important;
+  }
+  
+  #main .sidebar {
+    display: none !important;
+    width: 0 !important;
+  }
+}
+
+@media (min-width: 1280px) {
+  #main {
+    max-width: 100% !important;
+  }
+  
+  #main .archive {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
 }
 </style>
 
