@@ -11,13 +11,7 @@ redirect_from:
 I am a Postdoctoral Research Fellow at the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/people/violeta-haas), [Toulouse School of Economics (TSE)](https://www.tse-fr.eu). In September 2024, I completed my PhD in Political Science as part of [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) ([Humboldt-Universität zu Berlin](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/violeta-haas)). I am also involved in [The Humboldt Governance Lab (Humboldt GovLab)](https://hu-govlab.de/en/team-2/). 
 
 How do state institutions and elites define the boundaries of citizenship, and what political consequences do these distinctions have? My primary research agenda focuses on **the politics of belonging**, examining the mechanisms through which
-legal frameworks, bureaucratic discretion, and political elites shape public perceptions of and behavior toward marginalized communities. In the context of migration and LGBTQ+ rights, I explore how the state manages diversity in an era of increasing polarization. Specifically, I investigate:  
-
-(1) how changes in legal frameworks affect bias-motivated crimes,  
-(2) how immigration salience drives bureaucrats’ disclosure of sensitive information, and   
-(3) the electoral consequences of elite-led mobilization against discriminated groups, and the effectiveness of mainstream party strategies to counter such efforts.  
-
-My side projects include work on party competition, social norms, and protest. Some of my work has been published or accepted for publication in *Electoral Studies* and *The Journal of Politics*. Methodologically, I specialize in causal identification and computational social science. I integrate traditional experimental designs (field, natural, and survey experiments) with recent advancements in multimodal LLM applications.  
+legal frameworks, bureaucratic discretion, and political elites shape public perceptions of and behavior toward marginalized communities. In the context of migration and LGBTQ+ rights, I explore how the state manages diversity in an era of increasing polarization. My side projects include work on party competition, social norms, and protest. Some of my work has been published or accepted for publication in *Electoral Studies* and *The Journal of Politics*. Methodologically, I specialize in causal identification and computational social science. I integrate traditional experimental designs (field, natural, and survey experiments) with recent advancements in multimodal LLM applications.  
 
 On this website, you can learn more about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile, and download my [CV](https://violeta-haas.github.io/cv/). Feel free to [reach out](mailto:violeta.haas@iast.fr) if you are interested in my research and would like to chat :coffee:  
 
