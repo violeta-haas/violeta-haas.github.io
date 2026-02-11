@@ -13,9 +13,9 @@ I am a Postdoctoral Research Fellow at the [Institute for Advanced Study in Toul
 How do state institutions and elites define the boundaries of citizenship, and what political consequences do these distinctions have? My primary research agenda focuses on **the politics of belonging**, examining the mechanisms through which
 legal frameworks, bureaucratic discretion, and political elites shape public perceptions of and behavior toward marginalized communities. In the context of migration and LGBTQ+ rights, I explore how the state manages diversity in an era of increasing polarization. Specifically, I investigate:  
 
-(1) how changes in legal frameworks affect bias-motivated crimes,  
-(2) how immigration salience drives bureaucrats’ disclosure of sensitive information, and   
-(3) the electoral consequences of elite-led mobilization against discriminated groups, as well as the effectiveness of mainstream party strategies to counter such efforts.  
+    (1) how changes in legal frameworks affect bias-motivated crimes,  
+    (2) how immigration salience drives bureaucrats’ disclosure of sensitive information, and   
+    (3) the electoral consequences of elite-led mobilization against discriminated groups, as well as the effectiveness of mainstream party strategies to counter such efforts.  
 
 My side projects include work on party competition, social norms, and protest. Some of my work has been published or accepted for publication in *Electoral Studies* and *The Journal of Politics*. Methodologically, I specialize in causal identification and computational social science. I integrate traditional experimental designs (field, natural, and survey experiments) with recent advancements in multimodal LLM applications.  
 
