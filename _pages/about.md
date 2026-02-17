@@ -10,11 +10,11 @@ redirect_from:
 
 I am a Postdoctoral Research Fellow at the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/people/violeta-haas), [Toulouse School of Economics (TSE)](https://www.tse-fr.eu). In September 2024, I completed my PhD in Political Science as part of [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) ([Humboldt-Universität zu Berlin](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/violeta-haas)). I am also involved in [The Humboldt Governance Lab (Humboldt GovLab)](https://hu-govlab.de/en/team-2/). 
 
-How do state institutions and elites define the boundaries of citizenship, and what political consequences do these distinctions have? My primary research focuses on **the politics of belonging**, examining the mechanisms through which institutions and elites shape public perceptions of and behavior toward marginalized groups. In the context of migration and LGBTQ+ rights, I explore:  
+How do state institutions and elites define the boundaries of citizenship, and what political consequences do these distinctions have? My primary research focuses on **the politics of belonging**, examining the mechanisms through which institutions and elites shape public perceptions of and behavior toward marginalized groups. In the context of migration and LGBTQ+ rights, I study how...   
 
-(1) how legislative interventions against discrimination affect hate crime,   
-(2) how immigration salience drives bureaucrats’ disclosure of sensitive information, and   
-(3) the electoral effects of elite-led mobilization against marginalized groups, as well as the effectiveness of mainstream party strategies to counter such efforts.  
+(1) ...Legislative interventions can protect marginalized groups   
+(2) ...Bureaucrats' behavior affects marginalized groups  
+(3) ...Elite-led mobilization against marginalized groups affects electoral competition  
 
 My side projects include work on party competition, social norms, and protest. Some of my work has been published or accepted for publication in *Electoral Studies* and *The Journal of Politics*. Methodologically, I specialize in causal identification and computational social science. I integrate traditional experimental designs (field, natural, and survey experiments) with recent advancements in multimodal LLM applications.  
 
