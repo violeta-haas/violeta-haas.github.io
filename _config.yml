@@ -14,6 +14,9 @@ description              : &description "Research Fellow in Political Science at
 url                      : https://violeta-haas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "violeta-haas/violeta-haas.github.io"
+# CV PDF: link to raw file in another repo so it updates when you push there
+# Example: https://raw.githubusercontent.com/username/cv-repo/main/CV_Haas_Violeta.pdf
+cv_pdf_url               : "https://github.com/violeta-haas/CV/raw/main/CV_Haas_Violeta.pdf"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
