@@ -22,9 +22,17 @@ jobs:
 
       - name: Download latest CV PDF from external repo
         run: |
-          curl -L \
-            "https://github.com/violeta-haas/CV/raw/main/CV_Haas_Violeta.pdf" \
-            -o files/CV_Haas_Violeta.pdf
+          url="https://raw.githubusercontent.com/violeta-haas/CV/main/CV_Haas_Violeta.pdf"
+          curl -fL "$url" -o files/CV_Haas_Violeta.pdf.tmp
+
+          # Basic sanity check: ensure file looks like a PDF before replacing
+          if head -c 4 files/CV_Haas_Violeta.pdf.tmp | grep -q "%PDF"; then
+            mv files/CV_Haas_Violeta.pdf.tmp files/CV_Haas_Violeta.pdf
+          else
+            echo "Downloaded file does not look like a PDF. Keeping existing CV file."
+            rm -f files/CV_Haas_Violeta.pdf.tmp
+            exit 1
+          fi
 
       - name: Commit and push if CV changed
         run: |
