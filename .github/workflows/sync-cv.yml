@@ -1,0 +1,40 @@
+name: Sync CV PDF from external repo
+
+on:
+  # Run once a day to keep the CV in sync
+  schedule:
+    - cron: "0 3 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  sync-cv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout site repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Ensure files directory exists
+        run: mkdir -p files
+
+      - name: Download latest CV PDF from external repo
+        run: |
+          curl -L \
+            "https://github.com/violeta-haas/CV/raw/main/CV_Haas_Violeta.pdf" \
+            -o files/CV_Haas_Violeta.pdf
+
+      - name: Commit and push if CV changed
+        run: |
+          if git status --porcelain files/CV_Haas_Violeta.pdf | grep .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add files/CV_Haas_Violeta.pdf
+            git commit -m "chore: sync CV PDF from external repo"
+            git push
+          else
+            echo "No changes in CV PDF; nothing to commit."
+          fi
+
