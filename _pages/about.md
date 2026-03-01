@@ -16,18 +16,20 @@ On this website, you can learn more about my [research](https://violeta-haas.git
 
 <p>&nbsp;</p>   
 
-## News:  
+## News
 
-<div style="margin-bottom: 30px;">
-  <p>Grant awarded by the <a href="https://theihs.org/">Institute for Humane Studies (IHS)</a> at George Mason University, as part of the Cosmos x IHS AI-Accelerated Scholarship Program, to support my project <em>Signs of Belonging: Measuring Group Segregation and Contact in Space using AI</em>.</p>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <div style="margin-right: 20px; flex-shrink: 0;">
-    <img src="/files/jop.jpg" alt="Publication image" style="width: 150px; height: auto; border-radius: 4px;">
+<div style="border: 1px solid #e2e8f0; border-radius: 12px; background: #f8fafc; padding: 1.5rem 1.75rem; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin-top: 0.5rem;">
+  <div style="margin-bottom: 30px;">
+    <p style="margin: 0;">Grant awarded by the <a href="https://theihs.org/">Institute for Humane Studies (IHS)</a> at George Mason University, as part of the Cosmos x IHS AI-Accelerated Scholarship Program, to support my project <em>Signs of Belonging: Measuring Group Segregation and Contact in Space using AI</em>.</p>
   </div>
-  <div style="flex: 1;">
-    <p>Haas, V. I., Bogatyrev, K., Abou-Chadi, T., Klüver, H., Stoetzer, L. F. (2025). <strong>The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.</strong> Accepted at <em>The Journal of Politics</em>.</p>
-    <p><a href="https://www.journals.uchicago.edu/doi/10.1086/739782">Find the Paper here</a></p>
+
+  <div style="display: flex; align-items: center; margin-bottom: 0; padding-top: 1.25rem; border-top: 1px solid #e2e8f0;">
+    <div style="margin-right: 20px; flex-shrink: 0;">
+      <img src="/files/jop.jpg" alt="Publication image" style="width: 150px; height: auto; border-radius: 8px;">
+    </div>
+    <div style="flex: 1;">
+      <p style="margin: 0 0 0.5rem 0;">Haas, V. I., Bogatyrev, K., Abou-Chadi, T., Klüver, H., Stoetzer, L. F. (2025). <strong>The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.</strong> Accepted at <em>The Journal of Politics</em>.</p>
+      <p style="margin: 0;"><a href="https://www.journals.uchicago.edu/doi/10.1086/739782">Find the Paper here</a></p>
+    </div>
   </div>
 </div> 
