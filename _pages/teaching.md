@@ -12,6 +12,7 @@ author_profile: true
   padding-left: 0;
   list-style: none;
   margin: 20px 0;
+  margin-left: 90px; /* prevent year dates from overlapping author profile sidebar */
 }
 
 .timeline-item {
@@ -85,11 +86,16 @@ author_profile: true
 }
 
 @media (max-width: 768px) {
+  .timeline {
+    margin-left: 0; /* no sidebar on small screens */
+  }
+
   .timeline-item {
     padding-left: 60px;
   }
   
   .timeline-date {
+    left: -60px;
     width: 50px;
     font-size: 12px;
   }
