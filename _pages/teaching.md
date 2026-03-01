@@ -108,6 +108,7 @@ author_profile: true
   <div class="timeline-date">2025/2026</div>
   <div class="timeline-content">
     <h3>Intro: Using Large Language Models in Social Science Research</h3>
+    <p><strong>Level:</strong> Master / PhD</p>
     <p><strong>Dates:</strong> January 2025 & 2026</p>
     <p><strong>Institution:</strong> Humboldt-Universität zu Berlin, Department of Social Sciences</p>
     <p><strong>Position:</strong> Guest Lecturer</p>
@@ -139,6 +140,7 @@ author_profile: true
   <div class="timeline-date">2025</div>
   <div class="timeline-content">
     <h3>Inclusion/exclusion in the political sphere: suffrage extensions and quotas</h3>
+    <p><strong>Level:</strong>  PhD </p>
     <p><strong>Institution:</strong> Toulouse Summer School in Quantitative Social Sciences</p>
     <p><strong>Position:</strong> Instructor for student presentations and discussion</p>
   </div>
@@ -148,6 +150,7 @@ author_profile: true
   <div class="timeline-date">2023/2024</div>
   <div class="timeline-content">
     <h3>Hate in Context</h3>
+    <p><strong>Level:</strong> Bachelor </p>
     <p><strong>Semester:</strong> Winter 2023/24</p>
     <p><strong>Institution:</strong> Humboldt-Universität zu Berlin, Department of Social Sciences</p>
     <p><strong>Position:</strong> Lecturer</p>
@@ -160,6 +163,7 @@ author_profile: true
   <div class="timeline-content">
     <h3>Comparative Politics and International Relations</h3>
     <p style="color: #f59e0b; font-weight: 600;">🏆 Good Teaching Award 2023 at Humboldt-Universität zu Berlin (2nd place)</p>
+    <p><strong>Level:</strong> Bachelor </p>
     <p><strong>Semester:</strong> Winter 2022/23</p>
     <p><strong>Institution:</strong> Humboldt-Universität zu Berlin, Department of Social Sciences</p>
     <p><strong>Position:</strong> Lecturer</p>
@@ -170,6 +174,7 @@ author_profile: true
   <div class="timeline-date">2015-2019</div>
   <div class="timeline-content">
     <h3>Statistics I & II</h3>
+    <p><strong>Level:</strong> Bachelor</p>
     <p><strong>Semester:</strong> Winter 2015/16 - Winter 2018/19</p>
     <p><strong>Institution:</strong> Humboldt-Universität zu Berlin, Department of Social Sciences</p>
     <p><strong>Position:</strong> Teaching Assistant</p>
