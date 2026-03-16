@@ -1,26 +1,23 @@
 /* Theme styles removed */
 
-/* News accordion on About page, styled similar to Kustov's publications boxes */
+/* News accordion on About page */
 .article-accordion {
-  margin-top: 0.75rem;
+  margin-top: 0.5rem;
 }
 
 .article-accordion details {
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  background-color: #ffffff;
-  padding: 0.75rem 1rem;
   margin-bottom: 0.5rem;
-  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
-}
-
-.article-accordion details[open] {
-  background-color: #f9fafb;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  background-color: #ffffff;
 }
 
 .article-accordion summary {
   list-style: none;
+  display: block;
   cursor: pointer;
+  position: relative;
 }
 
 .article-accordion summary::-webkit-details-marker {
@@ -29,10 +26,11 @@
 
 .article-accordion summary::after {
   content: "+";
-  float: right;
-  font-size: 1.3rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 1.2rem;
   line-height: 1;
-  color: #9ca3af;
 }
 
 .article-accordion details[open] summary::after {
@@ -40,10 +38,9 @@
 }
 
 .article-citation {
-  display: block;
+  display: inline;
 }
 
 .article-abstract {
-  margin-top: 0.75rem;
-  color: #4b5563;
+  margin-top: 0.25rem;
 }
