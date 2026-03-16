@@ -1,88 +1,49 @@
 /* Theme styles removed */
 
-/* Custom News cards on the About page */
-.news-card {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  padding: 1.0rem 1.25rem;
-  border-radius: 8px;
-  border: 1px solid #e5e7eb !important;
-  background: #ffffff !important;
-  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
-  transition: background-color 0.15s ease, border-color 0.15s ease,
-    box-shadow 0.15s ease;
-  margin-top: 0.75rem;
-  margin-bottom: 0.25rem;
-  width: 100%;
-  box-sizing: border-box;
-}
-
-.news-card + .news-card {
+/* News accordion on About page, styled similar to Kustov's publications boxes */
+.article-accordion {
   margin-top: 0.75rem;
 }
 
-.news-card:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 10px rgba(15, 23, 42, 0.12);
-  border-color: #cbd5f5;
-  background: #f9fafb;
-}
-
-.news-card-main {
-  display: flex;
-  align-items: flex-start;
-  gap: 1.25rem;
-  flex: 1;
-  min-width: 0;
-}
-
-.news-card-image img {
-  width: 150px;
-  height: auto;
+.article-accordion details {
+  border: 1px solid #e5e7eb;
   border-radius: 8px;
-  display: block;
+  background-color: #ffffff;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
 }
 
-.news-card-text p {
-  margin: 0 0 0.4rem 0;
+.article-accordion details[open] {
+  background-color: #f9fafb;
 }
 
-.news-card-plus {
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-left: 1.5rem;
-  font-size: 1.6rem;
-  line-height: 1;
-  font-weight: 400;
-  color: #94a3b8;
+.article-accordion summary {
+  list-style: none;
   cursor: pointer;
 }
 
-.news-card:hover .news-card-plus {
-  color: #64748b;
-}
-
-.news-card a {
-  text-decoration: none;
-  border-bottom: 1px solid rgba(148, 163, 184, 0.6);
-}
-
-.news-card a:hover {
-  border-bottom-color: rgba(100, 116, 139, 0.9);
-}
-
-/* Collapsible details under a news card */
-.news-card-details {
+.article-accordion summary::-webkit-details-marker {
   display: none;
-  margin-top: 0.75rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid #e2e8f0;
-  color: #4b5563;
 }
 
-.news-card-details p {
-  margin: 0;
+.article-accordion summary::after {
+  content: "+";
+  float: right;
+  font-size: 1.3rem;
+  line-height: 1;
+  color: #9ca3af;
+}
+
+.article-accordion details[open] summary::after {
+  content: "–";
+}
+
+.article-citation {
+  display: block;
+}
+
+.article-abstract {
+  margin-top: 0.75rem;
+  color: #4b5563;
 }
