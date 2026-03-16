@@ -24,7 +24,7 @@ On this website, you can learn more about my [research](https://violeta-haas.git
   <div class="news-card-main">
     <div class="news-card-text">
       <p>Grant awarded by the <a href="https://theihs.org/">Institute for Humane Studies (IHS)</a> at George Mason University, as part of the Cosmos x IHS AI-Accelerated Scholarship Program, to support my project <em>Signs of Belonging: Measuring Group Segregation and Contact in Space using AI</em>.</p>
-      <div class="news-card-details">
+      <div class="news-card-details" style="display: none;">
         <p>In this project, we will leverage AI, together with fine-grained geographic data from Street View images and textual data from Google Business profiles, to develop new measures of segregation and mixing across sexual, gender, and ethno-linguistic groups in space. Using these micro-level measures, we plan to study the dynamics of conflict, integration, and discrimination in ways that weren't possible before, concentrating on visibility instead of mere demographic presence.</p>
       </div>
     </div>
@@ -35,12 +35,12 @@ On this website, you can learn more about my [research](https://violeta-haas.git
 <div class="news-card" data-has-details="true">
   <div class="news-card-main">
     <div class="news-card-image">
-      <img src="/files/jop.jpg" alt="Publication image">
+      <img src="/files/jop.jpg" alt="Publication image" style="width: 200px; max-width: 40%; height: auto; border-radius: 8px;">
     </div>
     <div class="news-card-text">
       <p>Haas, V. I., Bogatyrev, K., Abou-Chadi, T., Klüver, H., Stoetzer, L. F. (2025). <strong>The Electoral Effects of State-Sponsored Anti-LGBTQ Measures.</strong> Accepted at <em>The Journal of Politics</em>.</p>
       <p><a href="https://www.journals.uchicago.edu/doi/10.1086/739782">Find the Paper here</a></p>
-      <div class="news-card-details">
+      <div class="news-card-details" style="display: none;">
         <p><strong>Abstract:</strong> Do strategies of state-sponsored homophobia translate into electoral gains? While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by illiberal elites, little is known about the electoral effects of these strategies. We address this important question by studying whether anti-LGBTQ mobilization pays off electorally for government parties. Empirically, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary election. Using a synthetic difference-in-differences design, we find that these resolutions significantly depressed turnout in affected municipalities, with opposition parties showing less mobilization capacity. By contrast, turnout for the incumbent Law and Justice Party increased. Overall, this study's findings are relevant for understanding the electoral consequences of both elite-led mobilization against stigmatized and discriminated groups and policies of subnational democratic backsliding.</p>
       </div>
     </div>
