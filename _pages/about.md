@@ -24,7 +24,7 @@ On this website, you can learn more about my [research](https://violeta-haas.git
   <details>
     <summary>
       <span class="article-citation">
-        Grant awarded by the <a href="https://theihs.org/">Institute for Humane Studies (IHS)</a> at George Mason University, as part of the Cosmos x IHS AI-Accelerated Scholarship Program, to support my project <em>Signs of Belonging: Measuring Group Segregation and Contact in Space using AI</em>.
+        Grant awarded together with <a href="https://giacomolemoli.com/">Giacomo Lemoli</a> by the <a href="https://theihs.org/">Institute for Humane Studies (IHS)</a> at George Mason University, as part of the Cosmos x IHS AI-Accelerated Scholarship Program, to support my project <em>Signs of Belonging: Measuring Group Segregation and Contact in Space using AI</em>.
       </span>
     </summary>
     <div class="article-abstract">
