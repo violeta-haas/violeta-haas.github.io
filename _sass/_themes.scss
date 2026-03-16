@@ -6,13 +6,15 @@
   align-items: flex-start;
   justify-content: space-between;
   padding: 1.25rem 1.5rem;
-  border-radius: 12px;
+  border-radius: 8px;
   border: 1px solid #e2e8f0;
-  background: #f8fafc;
+  background: #ffffff;
   box-shadow: 0 1px 3px rgba(15, 23, 42, 0.08);
   transition: transform 0.15s ease, box-shadow 0.15s ease,
     background-color 0.15s ease, border-color 0.15s ease;
   margin-top: 0.75rem;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .news-card + .news-card {
