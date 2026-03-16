@@ -24,6 +24,15 @@
   display: none;
 }
 
+/* Hide default marker in modern browsers */
+.article-accordion summary::marker {
+  content: "";
+}
+
+.article-accordion summary::-moz-list-bullet {
+  font-size: 0;
+}
+
 .article-accordion summary::after {
   content: "+";
   position: absolute;
