@@ -63,6 +63,7 @@ author_profile: true
 ## **Selected Work in Progress**  
 
 **Signs of Belonging: Measuring Group Segregation and Contact in Space using AI**  
+-- with [Giacomo Lemoli](https://giacomolemoli.com/) --   
 *Grant awarded by the Institute for Humane Studies (IHS) at George Mason University, Cosmos x IHS AI-Accelerated Scholarship Program*   
 
 **Same in all but Name? Parallel Institutions in Present-Day Democracies**   
