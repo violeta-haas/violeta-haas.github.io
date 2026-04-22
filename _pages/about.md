@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="about-upcoming-talks">
-  <h3>Upcoming Talks</h3>
-  <ul>
-    <li>Dec, 7: Dondena Seminar Series, Bocconi University</li>
-  </ul>
-</div>
-
 I am a Postdoctoral Research Fellow at the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/people/violeta-haas), [Toulouse School of Economics (TSE)](https://www.tse-fr.eu). In September 2024, I completed my PhD in Political Science as part of [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) ([Humboldt-Universität zu Berlin](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/violeta-haas)). I am also involved in [The Humboldt Governance Lab (Humboldt GovLab)](https://hu-govlab.de/en/team-2/). 
 
 In August 2026, I will join the [Department of Political Science](https://www.tcd.ie/Political_Science/) at [Trinity College Dublin](https://www.tcd.ie/) as Assistant Professor in Political Science.
@@ -25,4 +18,14 @@ On this website, you can learn more about my [research](https://violeta-haas.git
 
 <div class="about-clear"></div>
 
+<div class="about-upcoming-talks">
+  <h3>Upcoming Talks</h3>
+  <ul>
+    <li>Dec, 7: Dondena Seminar Series, Bocconi University</li>
+  </ul>
+</div>
+
+
 <p>&nbsp;</p>   
+
+
