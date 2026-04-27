@@ -20,7 +20,6 @@ On this website, you can learn more about my [research](https://violeta-haas.git
   <div style="display: flex; align-items: flex-start; gap: 12px;">
     <div style="flex: 1;">
       <div style="font-weight: 600; color: #1f2937; margin-bottom: 8px;">Upcoming Talks</div>
-      <p style="color: #4b5563; font-size: 14px; margin: 0 0 8px 0;">Upcoming talks:</p>
       <ul style="margin: 0; padding-left: 18px; color: #4b5563; font-size: 13px;">
         <li>Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz</li>
         <li>Dec 7: Dondena Seminar Series, Bocconi University</li>
