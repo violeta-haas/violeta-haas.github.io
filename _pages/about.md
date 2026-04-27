@@ -1,12 +1,14 @@
 ---
 
 ## permalink: /
+
 title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+
+- /about/
+- /about.html
 
 I am a Postdoctoral Research Fellow at the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/people/violeta-haas), [Toulouse School of Economics (TSE)](https://www.tse-fr.eu). In September 2024, I completed my PhD in Political Science as part of [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) ([Humboldt-Universität zu Berlin](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/violeta-haas)). I am also involved in [The Humboldt Governance Lab (Humboldt GovLab)](https://hu-govlab.de/en/team-2/). 
 
@@ -18,8 +20,8 @@ On this website, you can learn more about my [research](https://violeta-haas.git
 
 **Upcoming Talks**
 
+Upcoming talks:
+
 - Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz
 - Dec 7: Dondena Seminar Series, Bocconi University
 - Dec 14: Department of Government Guest Talk, University of Vienna
-
- 
