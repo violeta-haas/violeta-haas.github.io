@@ -1,14 +1,12 @@
 ---
-
-## permalink: /
-
+permalink: /
 title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-
-- /about/
-- /about.html
+  - /about/
+  - /about.html
+---
 
 I am a Postdoctoral Research Fellow at the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/people/violeta-haas), [Toulouse School of Economics (TSE)](https://www.tse-fr.eu). In September 2024, I completed my PhD in Political Science as part of [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics) ([Humboldt-Universität zu Berlin](https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/violeta-haas)). I am also involved in [The Humboldt Governance Lab (Humboldt GovLab)](https://hu-govlab.de/en/team-2/). 
 
@@ -18,10 +16,20 @@ My research focuses on **the politics of belonging**, examining the mechanisms t
 
 On this website, you can learn more about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile, and download my [CV](https://violeta-haas.github.io/cv/). Feel free to [reach out](mailto:violeta.haas@iast.fr) if you are interested in my research and would like to chat :coffee:  
 
-**Upcoming Talks**
+<div style="border: 1px solid #d1d5db; border-radius: 6px; padding: 16px; margin: 16px 0; background-color: #f9fafb;">
+  <div style="display: flex; align-items: flex-start; gap: 12px;">
+    <div style="flex: 1;">
+      <div style="font-weight: 600; color: #1f2937; margin-bottom: 8px;">Upcoming Talks</div>
+      <p style="color: #4b5563; font-size: 14px; margin: 0 0 8px 0;">Upcoming talks:</p>
+      <ul style="margin: 0; padding-left: 18px; color: #4b5563; font-size: 13px;">
+        <li>Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz</li>
+        <li>Dec 7: Dondena Seminar Series, Bocconi University</li>
+        <li>Dec 14: Department of Government Guest Talk, University of Vienna</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-Upcoming talks:
+<p>&nbsp;</p>   
 
-- Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz
-- Dec 7: Dondena Seminar Series, Bocconi University
-- Dec 14: Department of Government Guest Talk, University of Vienna
+
