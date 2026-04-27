@@ -16,6 +16,19 @@ My research focuses on **the politics of belonging**, examining the mechanisms t
 
 On this website, you can learn more about my [research](https://violeta-haas.github.io/research/) and [teaching](https://violeta-haas.github.io/teaching/) profile, and download my [CV](https://violeta-haas.github.io/cv/). Feel free to [reach out](mailto:violeta.haas@iast.fr) if you are interested in my research and would like to chat :coffee:  
 
+<div style="border: 1px solid #d1d5db; border-radius: 6px; padding: 16px; margin: 16px 0; background-color: #f9fafb;">
+  <div style="display: flex; align-items: flex-start; gap: 12px;">
+    <div style="flex: 1;">
+      <div style="font-weight: 600; color: #1f2937; margin-bottom: 8px;">Upcoming Talks</div>
+      <p style="color: #4b5563; font-size: 14px; margin: 0 0 8px 0;">Upcoming talks:</p>
+      <ul style="margin: 0; padding-left: 18px; color: #4b5563; font-size: 13px;">
+        <li>Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz</li>
+        <li>Dec 7: Dondena Seminar Series, Bocconi University</li>
+        <li>Dec 14: Department of Government Guest Talk, University of Vienna</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 <p>&nbsp;</p>   
 
