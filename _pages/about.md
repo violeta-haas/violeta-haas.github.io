@@ -22,7 +22,6 @@ On this website, you can learn more about my [research](https://violeta-haas.git
       <div style="font-weight: 600; color: #1f2937; margin-bottom: 8px;">Upcoming Talks</div>
       <ul style="margin: 0; padding-left: 18px; color: #4b5563; font-size: 13px;">
         <li>Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz</li>
-        <li>Dec 7: Dondena Seminar Series, Bocconi University</li>
         <li>Dec 14: Department of Government Guest Talk, University of Vienna</li>
       </ul>
     </div>
