@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Violeta Haas"
 title_separator          : "-"
 name                     : &name "Violeta Haas"
-description              : &description "Research Fellow in Political Science at IAST-TSE."
+description              : &description "Assistant Professor in Political Science at Trinity College Dublin."
 url                      : https://violeta-haas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "violeta-haas/violeta-haas.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Violeta Haas"
   avatar           : "Dynamics_Haas_Violeta.jpg"
-  bio              : "Research Fellow in Political Science at IAST, Toulouse School of Economics."
-  location         : "Toulouse, France"
+  bio              : "Assistant Professor in Political Science at Trinity College Dublin."
+  location         : "Dublin, Ireland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=zbiC8-oAAAAJ&hl=de&oi=ao"
