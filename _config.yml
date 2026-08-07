@@ -147,6 +147,20 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # Large standalone presentation HTML files (not linked from the site)
+  - DEC_presentation.html
+  - IAST_Lunch_firewall.html
+  - hate_crime.html
+  - schools.html
+  - UB_german_police.pdf
+  - _pages/about.html
+  - _pages/cv.html
+  - _pages/research.html
+  - _pages/teaching.html
+  - _pages/about_files
+  - _pages/cv_files
+  - _pages/research_files
+  - _pages/teaching_files
 keep_files:
   - .git
   - .svn
