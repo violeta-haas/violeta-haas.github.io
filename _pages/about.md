@@ -25,6 +25,7 @@ On this website, you can learn more about my [research](https://violeta-haas.git
         <li>Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz</li>
         <li>Dec 14: Department of Government Guest Talk, University of Vienna</li>
         <li>Spring 27: Dondena Seminar Series, Bocconi University</li>
+        <li>Spring 27: Talk, University College Dublin (UCD)</li>
       </ul>
     </div>
   </div>
