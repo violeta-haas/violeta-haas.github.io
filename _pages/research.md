@@ -43,13 +43,6 @@ author_profile: true
 <p>&nbsp;</p>  
 
 
-**The Police as Gatekeepers of Information: Immigration Salience and Selective Crime Reporting**     
--- with [Ashrakat Elshehawy](https://www.ashrakatelshehawy.com), [Arun Frey](https://arunfrey.github.io), [Tobias Roemer](https://www.nuffield.ox.ac.uk/people/profiles/tobias-roemer/), [Sascha Riaz](https://saschariaz.com) --   
-[Download Working Paper](https://doi.org/10.31235/osf.io/trhys_v1)   
-<p><strong>Abstract:</strong> What drives the supply of crime news? While prior research focuses on the news media, we study a crucial upstream gatekeeper of information: the police. We argue that the police act as strategic bureaucrats who increase the disclosure of out-group cues (ethnicity, nationality) when immigration is salient to signal competence and transparency to the public. To test this, we use LLMs to annotate a novel dataset of about one million press releases published by local police stations across Germany between 2014 and 2024. Using a regression discontinuity in time design, we demonstrate an increase in out-group cues in police communications (1) following a nationwide shock to immigration salience (the 2015/16 Cologne New Year's Eve assaults), and (2) in the days before regional elections in which immigration is a salient campaign issue. Our findings demonstrate how bureaucratic discretion shapes the supply of politically charged information.</p>
-<p>&nbsp;</p>  
-
-
 **Beyond Persuasion: Protest's Direct Behavioral Impact on Bystanders**   
 -- with [Daniel Bischof](https://www.danbischof.com), [Ferdinand Geissler](https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/geisslerferdinand), [Johannes Giesecke](https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/giesecke), [Felix Hartmann](http://hartmannfelix.github.io), [Macartan Humphreys](https://macartan.github.io), [Heike Klüver](http://www.heike-kluever.com/), [Lukas Stoetzer](http://lukas-stoetzer.org/), and [Tim Wappenhans](https://www.timwappenhans.com) --   
 [Download Working Paper](https://osf.io/42s8e/download)   
@@ -67,11 +60,13 @@ author_profile: true
 
 ## **Selected Work in Progress**  
 
+**The Police as Gatekeepers of Information: Immigration Salience and Selective Crime Reporting**     
+-- with [Ashrakat Elshehawy](https://www.ashrakatelshehawy.com), [Arun Frey](https://arunfrey.github.io), [Tobias Roemer](https://www.nuffield.ox.ac.uk/people/profiles/tobias-roemer/), [Sascha Riaz](https://saschariaz.com) --   
+[Download Working Paper](https://doi.org/10.31235/osf.io/trhys_v1)   
+
 **Signs of Belonging: Measuring Group Segregation and Contact in Space using AI**  
 -- with [Giacomo Lemoli](https://giacomolemoli.com/) --   
 *Grant awarded by the Institute for Humane Studies (IHS) at George Mason University, Cosmos x IHS AI-Accelerated Scholarship Program*   
-
-**Same in all but Name? Parallel Institutions in Present-Day Democracies**   
 
 **Electoral Responses to Local Cooperations with Radical-Right Parties**      
 -- with [Phillip Heyna](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/heyna), [Hanno Hilbig](https://www.hannohilbig.com), [Tim Wappenhans](https://www.timwappenhans.com) --   
