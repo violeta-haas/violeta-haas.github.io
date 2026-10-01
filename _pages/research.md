@@ -39,6 +39,7 @@ author_profile: true
 
 **Selective Disclosure: How the Police Shape the Supply of Crime Information**     
 -- with [Ashrakat Elshehawy](https://www.ashrakatelshehawy.com) and [Sascha Riaz](https://saschariaz.com) --   
+[Slides](/presentations/selective-disclosure.html)  
 <p><strong>Abstract:</strong> What shapes public concern about crime? Previous research points to (biased) news exposure, in particular about out-group crime. We shift focus to the step before the news media: police press offices' discretion over which offenses to disclose and how to describe suspects. We classify 2.65 million German police press releases from 2014 to 2025 using a validated open-weight language model and benchmark them against official crime statistics. We find that violent offenses are overrepresented about threefold and foreign suspects more than twofold, rising to more than sevenfold for suspects from North Africa. Selective disclosure thus amplifies the offenses and origins that trigger threat perceptions. Drawing on large-scale geocoded survey data, we show that support for right-leaning parties increases in the days after a press release attributes a violent crime to an out-group suspect. Our findings provide a supply-side explanation for the disconnect between public concern about crime and recorded crime.</p>
 <p>&nbsp;</p>  
 
