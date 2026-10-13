@@ -24,8 +24,9 @@ On this website, you can learn more about my [research](https://violeta-haas.git
         <li>Nov 25: Political Science Departmental Research Seminar, UCL</li>
         <li>Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz</li>
         <li>Dec 14: Department of Government Guest Talk, University of Vienna</li>
+        <li>Jan 27: SPIRe Seminar Series, University College Dublin (UCD)</li>
+        <li>May 25: Public Policy Group Lunch Seminar, ETH Zurich</li>
         <li>Spring 27: Dondena Seminar Series, Bocconi University</li>
-        <li>Spring 27: SPIRe Seminar Series, University College Dublin (UCD)</li>
       </ul>
     </div>
   </div>
