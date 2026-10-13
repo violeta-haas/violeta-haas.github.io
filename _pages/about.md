@@ -21,8 +21,8 @@ On this website, you can learn more about my [research](https://violeta-haas.git
     <div style="flex: 1;">
       <div style="font-weight: 600; color: #1f2937; margin-bottom: 8px;">Upcoming Talks</div>
       <ul style="margin: 0; padding-left: 18px; color: #4b5563; font-size: 13px;">
-        <li>Nov 25: Political Science Departmental Research Seminar, UCL</li>
         <li>Nov 5-6: ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz</li>
+        <li>Nov 25: Political Science Departmental Research Seminar, UCL</li>
         <li>Dec 14: Department of Government Guest Talk, University of Vienna</li>
         <li>Jan 27: SPIRe Seminar Series, University College Dublin (UCD)</li>
         <li>May 25: Public Policy Group Lunch Seminar, ETH Zurich</li>
