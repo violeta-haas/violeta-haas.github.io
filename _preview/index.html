@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Violeta Haas — Preview</title>
+  <style>
+    :root {
+      --bg: #f7f6f3;
+      --surface: #ffffff;
+      --text: #1a1a1a;
+      --muted: #5c5c5c;
+      --accent: #334155;
+      --border: #e2e0db;
+      --tab-inactive: #6b6b6b;
+      --abstract-bg: #f0eeea;
+    }
+
+    [data-theme="dark"] {
+      --bg: #121212;
+      --surface: #1a1a1a;
+      --text: #f0eeea;
+      --muted: #a8a8a8;
+      --accent: #94a3b8;
+      --border: #2e2e2e;
+      --tab-inactive: #9a9a9a;
+      --abstract-bg: #242424;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 300;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      font-size: 14px;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover { text-decoration: underline; }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 48px 24px 80px;
+      display: grid;
+      grid-template-columns: 200px 1fr;
+      gap: 56px;
+      align-items: start;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 32px;
+    }
+
+    .sidebar h1 {
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin: 0 0 14px;
+      line-height: 1.2;
+      color: var(--text);
+    }
+
+    .avatar {
+      width: 200px;
+      height: 250px;
+      max-width: 100%;
+      object-fit: cover;
+      object-position: center top;
+      border-radius: 8px;
+      display: block;
+      margin: 0 0 12px;
+      background: var(--border);
+    }
+
+    .meta {
+      font-size: 12px;
+      color: var(--muted);
+      margin: 0 0 4px;
+      line-height: 1.4;
+      font-weight: 300;
+    }
+
+    .meta a { font-weight: 500; }
+
+    .icons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      align-items: center;
+      margin-top: 12px;
+    }
+
+    .icons a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--accent);
+      line-height: 0;
+    }
+    .icons a:hover {
+      opacity: 0.75;
+      text-decoration: none;
+    }
+    .icons svg {
+      width: 22px;
+      height: 22px;
+      fill: currentColor;
+    }
+    .icons .cv-label {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      line-height: 1;
+    }
+
+    .theme-toggle {
+      position: fixed;
+      top: 18px;
+      right: 18px;
+      z-index: 20;
+      width: 40px;
+      height: 40px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      cursor: pointer;
+      border-radius: 2px;
+      padding: 0;
+      line-height: 0;
+    }
+    .theme-toggle:hover {
+      color: var(--text);
+      border-color: var(--muted);
+    }
+    .theme-toggle svg {
+      width: 18px;
+      height: 18px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 1.75;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .preview-banner {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      border: 1px dashed var(--border);
+      padding: 6px 8px;
+      margin-bottom: 16px;
+    }
+
+    .bio {
+      margin: 0 0 28px;
+      font-size: 14px;
+      font-weight: 300;
+    }
+    .bio p { margin: 0 0 1em; }
+    .bio p:last-child { margin-bottom: 0; }
+
+    .tabs {
+      display: flex;
+      gap: 20px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 24px;
+      font-size: 15px;
+    }
+
+    .tab {
+      background: none;
+      border: none;
+      padding: 8px 0 10px;
+      margin: 0;
+      cursor: pointer;
+      color: var(--tab-inactive);
+      font: inherit;
+      font-weight: 600;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+    }
+    .tab[aria-selected="true"] {
+      color: var(--text);
+      border-bottom-color: var(--accent);
+    }
+    .tab:hover { color: var(--text); }
+
+    .panel[hidden] { display: none; }
+
+    .section-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      margin: 28px 0 12px;
+      font-weight: 600;
+    }
+    .section-label:first-child { margin-top: 0; }
+
+    #panel-research {
+      counter-reset: paper;
+    }
+
+    .paper-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .paper-list > li {
+      counter-increment: paper;
+      margin-bottom: 1.15em;
+      padding-left: 1.75em;
+      position: relative;
+    }
+
+    .paper-list > li::before {
+      content: counter(paper) ".";
+      position: absolute;
+      left: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .paper-list > li,
+    .wip-list li {
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 1.5;
+    }
+
+    .paper-title {
+      font-weight: 600;
+      color: var(--accent);
+    }
+    .paper-title:hover { text-decoration: underline; }
+
+    .paper-meta { color: var(--muted); font-weight: 300; }
+    .paper-meta strong { color: var(--text); font-weight: 700; }
+
+    .abs-btn {
+      background: none;
+      border: none;
+      padding: 0;
+      margin: 0;
+      color: var(--text);
+      font: inherit;
+      font-weight: 300;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .abs-btn:hover { color: var(--accent); }
+
+    .abstract {
+      margin-top: 0.55em;
+      padding: 0.75em 0.9em;
+      background: var(--abstract-bg);
+      border-left: 2px solid var(--border);
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 300;
+    }
+    .abstract[hidden] { display: none; }
+
+    .wip-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .wip-list li {
+      margin-bottom: 1em;
+      padding-left: 0;
+    }
+
+    .teaching-item {
+      margin-bottom: 1.4em;
+      padding-bottom: 1.2em;
+      border-bottom: 1px solid var(--border);
+    }
+    .teaching-item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+    .teaching-item h3 {
+      font-family: inherit;
+      font-size: 14px;
+      font-weight: 600;
+      margin: 0 0 4px;
+      color: var(--accent);
+      line-height: 1.5;
+    }
+    .teaching-year {
+      font-family: inherit;
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+      font-weight: 300;
+    }
+    .teaching-item p {
+      margin: 0.2em 0;
+      font-family: inherit;
+      font-size: 14px;
+      color: var(--muted);
+      font-weight: 300;
+      line-height: 1.5;
+    }
+    .award {
+      color: var(--accent);
+      font-size: 13px;
+      margin: 0.35em 0 !important;
+    }
+
+    .talks-box {
+      margin-top: 22px;
+      padding: 12px 12px 10px;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      background: var(--surface);
+    }
+    .talks-box-title {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      margin: 0 0 10px;
+    }
+    .talks-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .talks-list li {
+      margin-bottom: 0.7em;
+      font-size: 12px;
+      line-height: 1.4;
+      color: var(--text);
+      font-weight: 300;
+    }
+    .talks-list li:last-child { margin-bottom: 0; }
+    .talk-date {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      margin-bottom: 1px;
+    }
+
+    .site-credit {
+      margin-top: 48px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 300;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 720px) {
+      .wrap {
+        grid-template-columns: 1fr;
+        gap: 28px;
+        padding: 28px 18px 64px;
+      }
+      .sidebar { position: static; }
+      .avatar { width: 160px; height: 200px; }
+    }
+  </style>
+</head>
+<body>
+  <button type="button" class="theme-toggle" id="themeToggle" aria-pressed="true" aria-label="Toggle light mode" title="Toggle light mode">
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M9 18h6"></path>
+      <path d="M10 21h4"></path>
+      <path d="M12 3a6 6 0 0 0-4 10.5V15a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-1.5A6 6 0 0 0 12 3z"></path>
+    </svg>
+  </button>
+  <div class="wrap">
+    <aside class="sidebar">
+      <div class="preview-banner">Local preview only</div>
+      <h1>Violeta Haas</h1>
+      <img class="avatar" src="../images/Dynamics_Haas_Violeta.jpg" alt="Portrait of Violeta Haas">
+      <p class="meta">Assistant Professor in Political Science<br>Department of Political Science<br>Trinity College Dublin</p>
+      <p class="meta"><a href="mailto:violeta.haas@tcd.ie">violeta.haas@tcd.ie</a></p>
+      <div class="icons">
+        <a href="https://scholar.google.de/citations?user=zbiC8-oAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/></svg>
+        </a>
+        <a href="mailto:violeta.haas@tcd.ie" aria-label="Email" title="Email">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5L4 8V6l8 5 8-5v2z"/></svg>
+        </a>
+        <a href="https://www.linkedin.com/in/violeta-haas-179497371" target="_blank" rel="noopener" aria-label="LinkedIn" title="LinkedIn">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.23 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.46c.98 0 1.77-.77 1.77-1.73V1.73C24 .77 23.21 0 22.23 0z"/></svg>
+        </a>
+        <a href="../files/CV_Haas_Violeta.pdf" target="_blank" rel="noopener" aria-label="CV" title="CV">
+          <span class="cv-label">CV</span>
+        </a>
+      </div>
+      <div class="talks-box">
+        <div class="talks-box-title">Upcoming Talks</div>
+        <ul class="talks-list">
+          <li>
+            <span class="talk-date">Nov 5–6</span>
+            ERC VisibleQueers Kick-Off Workshop, Johannes Gutenberg University Mainz
+          </li>
+          <li>
+            <span class="talk-date">Nov 25</span>
+            Political Science Departmental Research Seminar, UCL
+          </li>
+          <li>
+            <span class="talk-date">Dec 14</span>
+            Department of Government Guest Talk, University of Vienna
+          </li>
+          <li>
+            <span class="talk-date">Jan 27</span>
+            SPIRe Seminar Series, University College Dublin (UCD)
+          </li>
+          <li>
+            <span class="talk-date">May 25</span>
+            Public Policy Group Lunch Seminar, ETH Zurich
+          </li>
+        </ul>
+      </div>
+    </aside>
+
+    <main>
+      <section class="bio">
+        <p>
+          I am an Assistant Professor in Political Science at the
+          <a href="https://www.tcd.ie/Political_Science/">Department of Political Science</a>
+          at <a href="https://www.tcd.ie/">Trinity College Dublin</a>.
+        </p>
+        <p>
+          Previously, I was a Postdoctoral Research Fellow at the
+          <a href="https://www.iast.fr/">Institute for Advanced Study in Toulouse (IAST)</a>,
+          <a href="https://www.tse-fr.eu">Toulouse School of Economics (TSE)</a>.
+          In September 2024, I completed my PhD in Political Science as part of
+          <a href="https://www.sowi.hu-berlin.de/en/dynamics">DYNAMICS</a>
+          (<a href="https://www.sowi.hu-berlin.de/en/lehrbereiche-en/comparative-political-behavior/team/violeta-haas">Humboldt-Universität zu Berlin</a>).
+          I am also involved in
+          <a href="https://hu-govlab.de/en/team-2/">The Humboldt Governance Lab (Humboldt GovLab)</a>.
+        </p>
+        <p>
+          My research focuses on the mechanisms through which institutions and elites shape the lives of marginalized groups. Focusing on immigration and LGBTQ+ rights, I investigate how (1) policy interventions and design, (2) bureaucrats' behavior, and (3) elite-led anti-minority mobilization affect perceptions of and behavior toward marginalized groups, as well as electoral competition.
+        </p>
+        <p>
+          Methodologically, I specialize in causal identification and computational social science. I integrate traditional experimental designs (field, natural, and survey experiments) with recent advancements in multimodal LLM applications.
+        </p>
+      </section>
+
+      <div class="tabs" role="tablist" aria-label="Site sections">
+        <button class="tab" role="tab" id="tab-research" aria-controls="panel-research" aria-selected="true" data-tab="research">Research</button>
+        <button class="tab" role="tab" id="tab-teaching" aria-controls="panel-teaching" aria-selected="false" data-tab="teaching">Teaching</button>
+      </div>
+
+      <div class="panel" id="panel-research" role="tabpanel" aria-labelledby="tab-research">
+        <div class="section-label">Publications</div>
+        <ol class="paper-list">
+          <li>
+            <a class="paper-title" href="https://www.journals.uchicago.edu/doi/10.1086/739782" target="_blank" rel="noopener">The Electoral Effects of State-Sponsored Anti-LGBTQ Measures</a>
+            <span class="paper-meta"> (with <a href="https://sites.google.com/view/konstantin-bogatyrev/">Konstantin Bogatyrev</a>, <a href="http://www.heike-kluever.com/">Heike Klüver</a>, and <a href="http://lukas-stoetzer.org/">Lukas F. Stoetzer</a>). Accepted at <strong>The Journal of Politics</strong>.</span>
+            <button type="button" class="abs-btn" aria-expanded="false">[Abstract]</button>
+            <div class="abstract" hidden>
+              Do strategies of state-sponsored homophobia translate into electoral gains? While a growing body of literature documents the increasing politicization of LGBTQ- and gender-related issues by illiberal elites, little is known about the electoral effects of these strategies. We address this important question by studying whether anti-LGBTQ mobilization pays off electorally for government parties. Empirically, we study the adoption of anti-LGBTQ resolutions in many Polish municipalities prior to the 2019 parliamentary election. Using a synthetic difference-in-differences design, we find that these resolutions significantly depressed turnout in affected municipalities, with opposition parties showing less mobilization capacity. By contrast, turnout for the incumbent Law and Justice Party increased. Overall, this study's findings are relevant for understanding the electoral consequences of both elite-led mobilization against stigmatized and discriminated groups and policies of subnational democratic backsliding.
+            </div>
+          </li>
+          <li>
+            <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0261379423000392" target="_blank" rel="noopener">Can wedge strategies by mainstream parties cross-cut the anti-immigration far right vote?</a>
+            <span class="paper-meta"> (with <a href="http://lukas-stoetzer.org/">Lukas F. Stoetzer</a>, <a href="https://www.politics.ox.ac.uk/person/petra-schleiter">Petra Schleiter</a>, and <a href="http://www.heike-kluever.com/">Heike Klüver</a>). <strong>Electoral Studies</strong>, 83, 102617 (2023).</span>
+            <button type="button" class="abs-btn" aria-expanded="false">[Abstract]</button>
+            <div class="abstract" hidden>
+              Anti-immigration campaigns have helped far-right parties to establish themselves in party systems around the world. We examine whether mainstream parties can employ wedge issue campaigns that divide the far-right anti-immigration vote to win back electoral support. Wedge issues that cross-cut the anti-immigration vote may enhance the electoral support of mainstream parties, as long as they do not simultaneously alienate pro-immigration voters. We evaluate this expectation using a panel survey experiment conducted during the 2021 German federal election. While our results show that wedge issue strategies are not effective on average, exploratory analyses reveal the potential of strategically targeted messaging in winning back support of some anti-immigration voters.
+            </div>
+          </li>
+        </ol>
+
+        <div class="section-label">Working Papers</div>
+        <ol class="paper-list">
+          <li>
+            <span class="paper-title" style="color: var(--accent); font-weight: 600;">Panic at the Courtroom: Can Legislative Action against Discrimination in Court Reduce Hate Crimes?</span>
+            <span class="paper-meta"> Job Market Paper. Draft available upon request.</span>
+            <button type="button" class="abs-btn" aria-expanded="false">[Abstract]</button>
+            <div class="abstract" hidden>
+              Can legislative measures against discrimination in court reduce bias-motivated behavior? This study examines the impact of criminal code reforms that prohibit the LGBTQ+ "panic" defense, a legal strategy that attributes a defendant's violent actions to a victim's sexual orientation or gender identity, on the incidence of hate crimes. I argue that such reforms operate through two mechanisms: first, by increasing the material costs of engaging in bias-motivated violence through heightened legal sanctions, and second, by signaling institutional disapproval of violence as a means of enforcing heteronormative and masculinist norms. To assess the causal effect of these reforms, I exploit the staggered adoption of LGBTQ+ "panic" defense bans across US states and employ a difference-in-differences design. The findings indicate that states implementing bans experience a significant reduction in anti-LGBTQ+ hate crimes.
+            </div>
+          </li>
+          <li>
+            <span class="paper-title" style="color: var(--accent); font-weight: 600;">Selective Disclosure: How the Police Shape the Supply of Crime Information</span>
+            <span class="paper-meta"> (with <a href="https://www.ashrakatelshehawy.com">Ashrakat Elshehawy</a> and <a href="https://saschariaz.com">Sascha Riaz</a>).</span>
+            <button type="button" class="abs-btn" aria-expanded="false">[Abstract]</button>
+            <div class="abstract" hidden>
+              What shapes public concern about crime? Previous research points to (biased) news exposure, in particular about out-group crime. We shift focus to the step before the news media: police press offices' discretion over which offenses to disclose and how to describe suspects. We classify 2.65 million German police press releases from 2014 to 2025 using a validated open-weight language model and benchmark them against official crime statistics. We find that violent offenses are overrepresented about threefold and foreign suspects more than twofold, rising to more than sevenfold for suspects from North Africa. Selective disclosure thus amplifies the offenses and origins that trigger threat perceptions. Drawing on large-scale geocoded survey data, we show that support for right-leaning parties increases in the days after a press release attributes a violent crime to an out-group suspect. Our findings provide a supply-side explanation for the disconnect between public concern about crime and recorded crime.
+            </div>
+          </li>
+          <li>
+            <span class="paper-title" style="color: var(--accent); font-weight: 600;">Beyond Persuasion: Protest's Direct Behavioral Impact on Bystanders</span>
+            <span class="paper-meta"> (with <a href="https://www.danbischof.com">Daniel Bischof</a>, <a href="https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/geisslerferdinand">Ferdinand Geissler</a>, <a href="https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/giesecke">Johannes Giesecke</a>, <a href="http://hartmannfelix.github.io">Felix Hartmann</a>, <a href="https://macartan.github.io">Macartan Humphreys</a>, <a href="http://www.heike-kluever.com/">Heike Klüver</a>, <a href="http://lukas-stoetzer.org/">Lukas Stoetzer</a>, and <a href="https://www.timwappenhans.com">Tim Wappenhans</a>). <a href="https://osf.io/42s8e/download">Download</a>.</span>
+            <button type="button" class="abs-btn" aria-expanded="false">[Abstract]</button>
+            <div class="abstract" hidden>
+              Despite decades of scholarship on protest effects, we know little about how bystanders, citizens who observe protests without participating, are affected by them. To credibly assess the effects of protests on observers, we design and implement a field experiment in Berlin in which we randomly route pedestrians past (treatment) or away from (control) three large-scale Fridays for Future climate strikes. We find evidence for a substantial increase in immediate donations to climate causes but no detectable impact on climate attitudes, vote intentions, or norm perceptions.
+            </div>
+          </li>
+          <li>
+            <span class="paper-title" style="color: var(--accent); font-weight: 600;">The Police as Gatekeepers of Information: Immigration Salience and Selective Crime Reporting</span>
+            <span class="paper-meta"> (with <a href="https://www.ashrakatelshehawy.com">Ashrakat Elshehawy</a>, <a href="https://arunfrey.github.io">Arun Frey</a>, <a href="https://www.nuffield.ox.ac.uk/people/profiles/tobias-roemer/">Tobias Roemer</a>, and <a href="https://saschariaz.com">Sascha Riaz</a>). <a href="https://doi.org/10.31235/osf.io/trhys_v1">Download Working Paper</a>.</span>
+            <button type="button" class="abs-btn" aria-expanded="false">[Abstract]</button>
+            <div class="abstract" hidden>
+              What drives the supply of crime news? While prior research focuses on the news media, we study a crucial upstream gatekeeper of information: the police. We argue that the police act as strategic bureaucrats who increase the disclosure of out-group cues (ethnicity, nationality) when immigration is salient to signal competence and transparency to the public. To test this, we use LLMs to annotate a novel dataset of about one million press releases published by local police stations across Germany between 2014 and 2024. Using a regression discontinuity in time design, we demonstrate an increase in out-group cues in police communications (1) following a nationwide shock to immigration salience (the 2015/16 Cologne New Year's Eve assaults), and (2) in the days before regional elections in which immigration is a salient campaign issue. Our findings demonstrate how bureaucratic discretion shapes the supply of politically charged information.
+            </div>
+          </li>
+          <li>
+            <span class="paper-title" style="color: var(--accent); font-weight: 600;">Electoral Responses to Local Cooperations with Radical-Right Parties</span>
+            <span class="paper-meta"> (with <a href="https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/heyna">Phillip Heyna</a>, <a href="https://www.hannohilbig.com">Hanno Hilbig</a>, and <a href="https://www.timwappenhans.com">Tim Wappenhans</a>).</span>
+          </li>
+        </ol>
+
+        <div class="section-label">Selected Work in Progress</div>
+        <ul class="wip-list">
+          <li>
+            <span class="paper-title" style="color: var(--accent); font-weight: 600;">How Good Ancestors Make Good Citizens: Norm Legacies and the Activation of Pro-Social Behavior</span>
+            <span class="paper-meta"> (with <a href="https://mirko-wegemann.github.io">Mirko Wegemann</a>).</span>
+          </li>
+          <li>
+            <span class="paper-title" style="color: var(--accent); font-weight: 600;">Signs of Belonging: Measuring Group Segregation and Contact in Space using AI</span>
+            <span class="paper-meta"> (with <a href="https://giacomolemoli.com/">Giacomo Lemoli</a>). Grant awarded by the Institute for Humane Studies (IHS).</span>
+          </li>
+          <li>
+            <span class="paper-title" style="color: var(--accent); font-weight: 600;">When Quotas Bite: EU Fisheries Regulation and Political Backlash in British Coastal Communities</span>
+            <span class="paper-meta"> (with <a href="https://www.danbischof.com">Daniel Bischof</a>).</span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="panel" id="panel-teaching" role="tabpanel" aria-labelledby="tab-teaching" hidden>
+        <div class="teaching-item">
+          <div class="teaching-year">2025 / 2026</div>
+          <h3>Intro: Using Large Language Models in Social Science Research</h3>
+          <p>Master / PhD · Guest Lecturer · Humboldt-Universität zu Berlin</p>
+          <p><a href="https://www.zotero.org/groups/5834393/llms_in_social_sciences/library">Course library</a> · <a href="https://github.com/violeta-haas/Intro-LLMs-in-Social-Science-Research">GitHub materials</a></p>
+        </div>
+        <div class="teaching-item">
+          <div class="teaching-year">2023 / 2024</div>
+          <h3>Hate in Context</h3>
+          <p>Bachelor · Lecturer · Humboldt-Universität zu Berlin</p>
+          <p><a href="../files/Hate_in_Context_Syllabus_V5.pdf">Syllabus</a></p>
+        </div>
+        <div class="teaching-item">
+          <div class="teaching-year">2022 / 2023</div>
+          <h3>Comparative Politics and International Relations</h3>
+          <p>Bachelor · Lecturer · Humboldt-Universität zu Berlin</p>
+        </div>
+        <div class="teaching-item">
+          <div class="teaching-year">2015 – 2019</div>
+          <h3>Statistics I &amp; II</h3>
+          <p>Bachelor · Teaching Assistant · Humboldt-Universität zu Berlin</p>
+        </div>
+      </div>
+
+      <p class="site-credit">
+        This website uses the <a href="https://github.com/orderedlist/minimal">minimal theme</a>
+        and is inspired by <a href="https://saschariaz.com/">Sascha Riaz’s website</a>.
+      </p>
+    </main>
+  </div>
+
+  <script>
+    (function () {
+      var root = document.documentElement;
+      var toggle = document.getElementById("themeToggle");
+      var stored = localStorage.getItem("vh-preview-theme");
+
+      function applyTheme(theme) {
+        if (theme === "light") {
+          root.removeAttribute("data-theme");
+          toggle.setAttribute("aria-pressed", "false");
+          toggle.setAttribute("aria-label", "Toggle dark mode");
+          toggle.setAttribute("title", "Toggle dark mode");
+        } else {
+          root.setAttribute("data-theme", "dark");
+          toggle.setAttribute("aria-pressed", "true");
+          toggle.setAttribute("aria-label", "Toggle light mode");
+          toggle.setAttribute("title", "Toggle light mode");
+        }
+      }
+
+      // Dark is default; only switch if user previously chose light
+      applyTheme(stored === "light" ? "light" : "dark");
+
+      toggle.addEventListener("click", function () {
+        var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+        localStorage.setItem("vh-preview-theme", next);
+        applyTheme(next);
+      });
+
+      var tabs = document.querySelectorAll(".tab");
+      var panels = {
+        research: document.getElementById("panel-research"),
+        teaching: document.getElementById("panel-teaching")
+      };
+
+      function activate(name) {
+        tabs.forEach(function (tab) {
+          var on = tab.getAttribute("data-tab") === name;
+          tab.setAttribute("aria-selected", on ? "true" : "false");
+        });
+        Object.keys(panels).forEach(function (key) {
+          panels[key].hidden = key !== name;
+        });
+        if (history.replaceState) {
+          history.replaceState(null, "", "#" + name);
+        }
+      }
+
+      tabs.forEach(function (tab) {
+        tab.addEventListener("click", function () {
+          activate(tab.getAttribute("data-tab"));
+        });
+      });
+
+      var hash = (location.hash || "#research").slice(1);
+      if (panels[hash]) activate(hash);
+
+      document.querySelectorAll(".abs-btn").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var abs = btn.nextElementSibling;
+          var open = abs.hasAttribute("hidden");
+          if (open) {
+            abs.removeAttribute("hidden");
+            btn.setAttribute("aria-expanded", "true");
+          } else {
+            abs.setAttribute("hidden", "");
+            btn.setAttribute("aria-expanded", "false");
+          }
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

@@ -162,6 +162,8 @@ exclude:
   - _pages/cv_files
   - _pages/research_files
   - _pages/teaching_files
+  # Local redesign preview only (not for live site)
+  - _preview
 keep_files:
   - .git
   - .svn

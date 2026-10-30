@@ -1,12 +1,4 @@
-# main links links
-main:  
-  - title: "Research"   
-    url: /research/   
-
-  - title: "Teaching"   
-    url: /teaching/    
-    
-  - title: "CV"   
-    url: /cv/   
-    
-
+# main links — single-page site uses in-page tabs; keep CV for any residual theme chrome
+main:
+  - title: "CV"
+    url: /files/CV_Haas_Violeta.pdf
